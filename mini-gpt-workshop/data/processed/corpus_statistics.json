@@ -1,0 +1,92 @@
+{
+  "num_texts": 1000,
+  "total_chars": 52100,
+  "avg_length": 52.1,
+  "min_length": 27,
+  "max_length": 74,
+  "vocab_size": 32,
+  "word_count": 5200,
+  "unique_words": 48,
+  "top_20_words": [
+    [
+      "de",
+      300
+    ],
+    [
+      "chat",
+      200
+    ],
+    [
+      "apprennent",
+      200
+    ],
+    [
+      "dort",
+      100
+    ],
+    [
+      "canapé.",
+      100
+    ],
+    [
+      "tour",
+      100
+    ],
+    [
+      "Eiffel",
+      100
+    ],
+    [
+      "un",
+      100
+    ],
+    [
+      "monument",
+      100
+    ],
+    [
+      "emblématique",
+      100
+    ],
+    [
+      "Paris.",
+      100
+    ],
+    [
+      "étudiants",
+      100
+    ],
+    [
+      "à",
+      100
+    ],
+    [
+      "construire",
+      100
+    ],
+    [
+      "modèles",
+      100
+    ],
+    [
+      "langage.",
+      100
+    ],
+    [
+      "L'intelligence",
+      100
+    ],
+    [
+      "artificielle",
+      100
+    ],
+    [
+      "transforme",
+      100
+    ],
+    [
+      "société.",
+      100
+    ]
+  ]
+}
