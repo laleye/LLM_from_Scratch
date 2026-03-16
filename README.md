@@ -1,11 +1,5 @@
 # Acoustic Analysis of African Tonal Languages for Speech Recognition
 
-## Project carried out by: 
-Jasmine GBOLOGANGBE
-Joella CAÏTANO
-Léonce LISBOA
-Orphéric AMOUSSOU
-
 ## Project Overview
 
 This project investigates the acoustic characteristics of African tonal languages and their impact on Automatic Speech Recognition (ASR) systems.
@@ -81,3 +75,54 @@ Python ecosystem:
 ---
 
 ## Project Structure
+project/
+│
+├── data/
+│ ├── raw_audio
+│ ├── processed
+│ └── metadata.csv
+│
+├── notebooks/
+│ 01_exploratory_analysis.ipynb
+│ 02_feature_analysis.ipynb
+│ 03_asr_evaluation.ipynb
+│
+├── src/
+│ feature_extraction.py
+│ pitch_analysis.py
+│ classification.py
+│ asr_evaluation.py
+│
+├── figures/
+│ spectrograms
+│ mfcc
+│ f0_plots
+│
+├── report/
+│ final_report.pdf
+│
+└── README.md
+
+
+---
+
+## Expected Outputs
+
+- Annotated spectrogram figures
+- MFCC and F0 statistical analysis
+- Language classification results
+- ASR evaluation results (WER / CER)
+- Final research report
+
+---
+
+## Authors
+
+Master NLP – Advanced Natural Language Processing
+
+Project Team:
+
+- Adébola Orphéric AMOUSSOU
+- Mahouton Joëlla Nelly Ingrid CAÏTANO
+- Akoua Robertine Jasmine GBOLOGANGBE
+- Aithnard Mauriet Léonce Itchéotan LISBOA
