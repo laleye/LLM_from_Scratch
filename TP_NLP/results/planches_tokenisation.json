@@ -1,0 +1,242 @@
+[
+  {
+    "language": "Swahili",
+    "text": "Hatutakapokuwa tumefika nyumbani bado.",
+    "feature": "agglutination: hatutakapokuwa (ha-tu-taka-po-ku-wa)",
+    "n_words": 4,
+    "tokenizations": {
+      "tiktoken": {
+        "n_tokens": 23,
+        "tokens": ["▁H","at","ut","a","k","ap","o","k","u","wa","▁tu","me","fi","k","a","▁ny","umb","an","i","▁b","ad","o","."]
+      },
+      "sentencepiece": {
+        "n_tokens": 19,
+        "tokens": ["▁H","at","ut","ak","ap","o","ku","wa","▁t","um","ef","ika","▁ny","umb","an","i","▁b","ad","o."]
+      },
+      "caractere": {
+        "n_tokens": 38,
+        "tokens": ["H","a","t","u","t","a","k","a","p","o","k","u","w","a"," ","t","u","m","e","f","i","k","a"," ","n","y","u","m","b","a","n","i"," ","b","a","d","o","."]
+      },
+      "mot": {
+        "n_tokens": 4,
+        "tokens": ["Hatutakapokuwa","tumefika","nyumbani","bado."]
+      }
+    }
+  },
+  {
+    "language": "Swahili",
+    "text": "Hawajakwisha kufanya kazi zote bado.",
+    "feature": "agglutination: hawajakwisha",
+    "n_words": 5,
+    "tokenizations": {
+      "tiktoken": {
+        "n_tokens": 24,
+        "tokens": ["▁H","a","wa","ja","k","w","is","ha","▁","k","uf","any","a","▁","k","az","i","▁z","ot","e","▁b","ad","o","."]
+      },
+      "sentencepiece": {
+        "n_tokens": 13,
+        "tokens": ["▁H","awa","j","ak","w","isha","▁kufanya","▁kazi","▁zote","▁b","ad","o","."]
+      },
+      "caractere": {
+        "n_tokens": 36,
+        "tokens": ["H","a","w","a","j","a","k","w","i","s","h","a"," ","k","u","f","a","n","y","a"," ","k","a","z","i"," ","z","o","t","e"," ","b","a","d","o","."]
+      },
+      "mot": {
+        "n_tokens": 5,
+        "tokens": ["Hawajakwisha","kufanya","kazi","zote","bado."]
+      }
+    }
+  },
+  {
+    "language": "Yoruba",
+    "text": "Àgbàdo ọ̀dọ̀ ni a gbádùn jùlọ.",
+    "feature": "diacritiques: à, ọ̀, ò",
+    "n_words": 6,
+    "tokenizations": {
+      "tiktoken": {
+        "n_tokens": 37,
+        "tokens": ["▁","<0xC3>","<0x80>","g","b","à","do","▁","<0xE1>","<0xBB>","<0x8D>","<0xCC>","<0x80>","d","<0xE1>","<0xBB>","<0x8C>","▁ni","▁a","▁gb","á","d","ùn","▁j","ùl","<0xE1>","<0xBB>","<0x8D>","."]
+      },
+      "sentencepiece": {
+        "n_tokens": 23,
+        "tokens": ["▁","<0xC3>","<0x80>","gbà","do","▁","ọ̀","d","ọ̀","▁ni","▁a","▁gb","á","d","ùn","▁j","ùl","ọ","."]
+      },
+      "caractere": {
+        "n_tokens": 30,
+        "tokens": ["À","g","b","à","d","o"," ","ọ","̀","d","ọ","̀"," ","n","i"," ","a"," ","g","b","á","d","ù","n"," ","j","ù","l","ọ","."]
+      },
+      "mot": {
+        "n_tokens": 6,
+        "tokens": ["Àgbàdo","ọ̀dọ̀","ni","a","gbádùn","jùlọ."]
+      }
+    }
+  },
+  {
+    "language": "Yoruba",
+    "text": "Kòsóǹkálùkú jẹ orúkọ tó ṣọ̀tún.",
+    "feature": "mot agglutinant complexe",
+    "n_words": 5,
+    "tokenizations": {
+      "tiktoken": {
+        "n_tokens": 44,
+        "tokens": ["▁K","<0xC3>","<0xB2>","s","ó","<0xC7>","<0xB9>","k","<0xC3>","<0xA1>","l","<0xC3>","<0xB9>","k","ú","▁j","<0xE1>","<0xB9>","<0xA3>","▁or","ú","k","<0xE1>","<0xBB>","<0x8D>","▁t","ó","▁","<0xE1>","<0xB9>","<0xA3>","<0xE1>","<0xBB>","<0x8D>","̀","t","ún","."]
+      },
+      "sentencepiece": {
+        "n_tokens": 24,
+        "tokens": ["▁K","<0xC3>","<0xB2>","só","<0xC7>","<0xB9>","k","á","l","<0xC3>","<0xB9>","k","ú","▁j","ẹ","▁orúk","ọ","▁tó","▁ṣ","ọ̀","t","ún","."]
+      },
+      "caractere": {
+        "n_tokens": 31,
+        "tokens": ["K","ò","s","ó","ǹ","k","á","l","ù","k","ú"," ","j","ẹ"," ","o","r","ú","k","ọ"," ","t","ó"," ","ṣ","ọ","̀","t","ú","n","."]
+      },
+      "mot": {
+        "n_tokens": 5,
+        "tokens": ["Kòsóǹkálùkú","jẹ","orúkọ","tó","ṣọ̀tún."]
+      }
+    }
+  },
+  {
+    "language": "Wolof",
+    "text": "Bëgg na ko te jàmm ak mbokk yi.",
+    "feature": "gémination: bëgg, jàmm",
+    "n_words": 8,
+    "tokenizations": {
+      "tiktoken": {
+        "n_tokens": 23,
+        "tokens": ["▁B","<0xC3>","<0xAB>","g","g","▁n","a","▁","k","o","▁te","▁j","à","mm","▁ak","▁mb","ok","k","▁y","i","."]
+      },
+      "sentencepiece": {
+        "n_tokens": 21,
+        "tokens": ["▁B","<0xC3>","<0xAB>","g","g","▁na","▁k","o","▁te","▁j","à","mm","▁a","k","▁mb","ok","k","▁y","i","."]
+      },
+      "caractere": {
+        "n_tokens": 31,
+        "tokens": ["B","ë","g","g"," ","n","a"," ","k","o"," ","t","e"," ","j","à","m","m"," ","a","k"," ","m","b","o","k","k"," ","y","i","."]
+      },
+      "mot": {
+        "n_tokens": 8,
+        "tokens": ["Bëgg","na","ko","te","jàmm","ak","mbokk","yi."]
+      }
+    }
+  },
+  {
+    "language": "Wolof",
+    "text": "Ndaxamaaloo yi dañuy liggéey bu dëgëër ci dëkk bi.",
+    "feature": "agglutination modérée",
+    "n_words": 9,
+    "tokenizations": {
+      "tiktoken": {
+        "n_tokens": 36,
+        "tokens": ["▁N","da","xam","a","al","oo","▁y","i","▁da","ñ","u","y","▁l","ig","g","é","ey","▁bu","▁d","<0xC3>","<0xAB>","g","<0xC3>","<0xAB>","r","▁ci","▁d","<0xC3>","<0xAB>","k","k","▁b","i","."]
+      },
+      "sentencepiece": {
+        "n_tokens": 35,
+        "tokens": ["▁N","da","x","ama","al","oo","▁y","i","▁d","añ","u","y","▁l","ig","g","é","ey","▁bu","▁d","<0xC3>","<0xAB>","g","<0xC3>","<0xAB>","r","▁ci","▁d","<0xC3>","<0xAB>","k","k","▁b","i","."]
+      },
+      "caractere": {
+        "n_tokens": 50,
+        "tokens": ["N","d","a","x","a","m","a","a","l","o","o"," ","y","i"," ","d","a","ñ","u","y"," ","l","i","g","g","é","e","y"," ","b","u"," ","d","ë","g","ë","ë","r"," ","c","i"," ","d","ë","k","k"," ","b","i","."]
+      },
+      "mot": {
+        "n_tokens": 9,
+        "tokens": ["Ndaxamaaloo","yi","dañuy","liggéey","bu","dëgëër","ci","dëkk","bi."]
+      }
+    }
+  },
+  {
+    "language": "Fongbé",
+    "text": "Dó, dò, dô: gbè atɔ̌n lɛ ɖó taji ɖò Fon.",
+    "feature": "tons: dó/dò/dô distinctifs",
+    "n_words": 10,
+    "tokenizations": {
+      "tiktoken": {
+        "n_tokens": 39,
+        "tokens": ["▁D","ó",",","▁d","<0xC3>","<0xB2>",",","▁d","ô","<0x3A>","▁g","b","è","▁a","t","<0xC9>","<0x94>","̌","n","▁l","<0xC9>","<0x9B>","▁","<0xC9>","<0x96>","ó","▁taji","▁","<0xC9>","<0x96>","<0xC3>","<0xB2>","▁F","on","."]
+      },
+      "sentencepiece": {
+        "n_tokens": 36,
+        "tokens": ["▁D","ó",",","▁d","<0xC3>","<0xB2>",",","▁d","ô","<0x3A>","▁gb","è","▁a","t","<0xC9>","<0x94>","̌","n","▁l","<0xC9>","<0x9B>","▁","<0xC9>","<0x96>","ó","▁taji","▁","<0xC9>","<0x96>","<0xC3>","<0xB2>","▁F","on","."]
+      },
+      "caractere": {
+        "n_tokens": 40,
+        "tokens": ["D","ó",","," ","d","ò",","," ","d","ô",":"," ","g","b","è"," ","a","t","ɔ","̌","n"," ","l","ɛ"," ","ɖ","ó"," ","t","a","j","i"," ","ɖ","ò"," ","F","o","n","."]
+      },
+      "mot": {
+        "n_tokens": 10,
+        "tokens": ["Dó,","dò,","dô:","gbè","atɔ̌n","lɛ","ɖó","taji","ɖò","Fon."]
+      }
+    }
+  },
+  {
+    "language": "Fongbé",
+    "text": "È ɖó na yì bɔ è na wá dó.",
+    "feature": "séquence courte e-ɖó-na-yì",
+    "n_words": 9,
+    "tokenizations": {
+      "tiktoken": {
+        "n_tokens": 24,
+        "tokens": ["▁","<0xC3>","<0x88>","▁","<0xC9>","<0x96>","ó","▁n","a","▁y","<0xC3>","<0xAC>","▁b","<0xC9>","<0x94>","▁","<0xC3>","<0x88>","▁na","▁w","á","▁d","ó","."]
+      },
+      "sentencepiece": {
+        "n_tokens": 20,
+        "tokens": ["▁","<0xC3>","<0x88>","▁","<0xC9>","<0x96>","ó","▁na","▁y","ì","▁b","<0xC9>","<0x94>","▁è","▁na","▁w","á","▁d","ó","."]
+      },
+      "caractere": {
+        "n_tokens": 25,
+        "tokens": ["È"," ","ɖ","ó"," ","n","a"," ","y","ì"," ","b","ɔ"," ","è"," ","n","a"," ","w","á"," ","d","ó","."]
+      },
+      "mot": {
+        "n_tokens": 9,
+        "tokens": ["È","ɖó","na","yì","bɔ","è","na","wá","dó."]
+      }
+    }
+  },
+  {
+    "language": "Français",
+    "text": "Le gouvernement a annoncé de nouvelles mesures économiques.",
+    "feature": "nan",
+    "n_words": 8,
+    "tokenizations": {
+      "tiktoken": {
+        "n_tokens": 9,
+        "tokens": ["▁Le","▁gouvernement","▁a","▁annoncé","▁de","▁nouvelles","▁mesures","▁économiques","."]
+      },
+      "sentencepiece": {
+        "n_tokens": 9,
+        "tokens": ["▁Le","▁gouvernement","▁a","▁annoncé","▁de","▁nouvelles","▁mesures","▁économiques","."]
+      },
+      "caractere": {
+        "n_tokens": 59,
+        "tokens": ["L","e"," ","g","o","u","v","e","r","n","e","m","e","n","t"," ","a"," ","a","n","n","o","n","c","é"," ","d","e"," ","n","o","u","v","e","l","l","e","s"," ","m","e","s","u","r","e","s"," ","é","c","o","n","o","m","i","q","u","e","s","."]
+      },
+      "mot": {
+        "n_tokens": 8,
+        "tokens": ["Le","gouvernement","a","annoncé","de","nouvelles","mesures","économiques."]
+      }
+    }
+  },
+  {
+    "language": "Français",
+    "text": "L'anticonstitutionnellement est le mot le plus long.",
+    "feature": "dérivation: anti-constitution-nel-le-ment",
+    "n_words": 7,
+    "tokenizations": {
+      "tiktoken": {
+        "n_tokens": 18,
+        "tokens": ["▁L","'","anti","con","s","ti","tu","tion","nelle","ment","▁est","▁le","▁m","ot","▁le","▁plus","▁long","."]
+      },
+      "sentencepiece": {
+        "n_tokens": 18,
+        "tokens": ["▁L","'","anti","con","s","ti","tu","tion","nelle","ment","▁est","▁le","▁m","ot","▁le","▁plus","▁long","."]
+      },
+      "caractere": {
+        "n_tokens": 52,
+        "tokens": ["L","'","a","n","t","i","c","o","n","s","t","i","t","u","t","i","o","n","n","e","l","l","e","m","e","n","t"," ","e","s","t"," ","l","e"," ","m","o","t"," ","l","e"," ","p","l","u","s"," ","l","o","n","g","."]
+      },
+      "mot": {
+        "n_tokens": 7,
+        "tokens": ["L'anticonstitutionnellement","est","le","mot","le","plus","long."]
+      }
+    }
+  }
+]

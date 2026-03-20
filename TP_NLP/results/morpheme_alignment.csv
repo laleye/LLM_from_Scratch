@@ -1,0 +1,17 @@
+word,morphemes,n_morphemes,tokenizer,tokens,n_tokens,n_aligned,alignment_rate,gloss,translation
+tumefika,tu-me-fik-a,4,tiktoken,tu-me-fi-k-a,5,3,0.6,1PL-PERF-arriver-FINAL,nous sommes arrivés
+tumefika,tu-me-fik-a,4,sentencepiece,t-um-ef-ika,4,0,0.0,1PL-PERF-arriver-FINAL,nous sommes arrivés
+hatutakapokuwa,ha-tu-taka-po-ku-wa,6,tiktoken,hat-ut-a-k-ap-o-k-u-wa,9,1,0.111,NEG-1PL-vouloir-LOC-INF-être,quand nous ne voudrons pas être
+hatutakapokuwa,ha-tu-taka-po-ku-wa,6,sentencepiece,hat-ut-ak-ap-o-ku-wa,7,2,0.286,NEG-1PL-vouloir-LOC-INF-être,quand nous ne voudrons pas être
+anayemsaidia,a-na-ye-m-saidia,5,tiktoken,an-ay-e-ms-ai-di-a,7,1,0.143,3SG-PRÉS-REL-OBJ-aider,celui qui l'aide
+anayemsaidia,a-na-ye-m-saidia,5,sentencepiece,an-ay-e-ms-ai-di-a,7,1,0.143,3SG-PRÉS-REL-OBJ-aider,celui qui l'aide
+wanaocheza,wa-na-o-cheza,4,tiktoken,w-ana-o-che-z-a,6,1,0.167,3PL-PRÉS-REL-jouer,ceux qui jouent
+wanaocheza,wa-na-o-cheza,4,sentencepiece,wana-o-che-za,4,1,0.25,3PL-PRÉS-REL-jouer,ceux qui jouent
+zinaposemwa,zi-na-po-sem-wa,5,tiktoken,-z-in-ap-os-em-wa,7,1,0.143,9PL-PRÉS-LOC-dire-PASS,là où elles sont dites
+zinaposemwa,zi-na-po-sem-wa,5,sentencepiece,zin-ap-os-emwa,4,0,0.0,9PL-PRÉS-LOC-dire-PASS,là où elles sont dites
+watoto,wa-toto,2,tiktoken,wat-ot-o,3,0,0.0,PL.ANIM-enfant,enfants
+watoto,wa-toto,2,sentencepiece,wat-oto,2,0,0.0,PL.ANIM-enfant,enfants
+utaratibu,u-taratibu,2,tiktoken,-ut-ar-ati-b-u,6,1,0.167,CL11-ordre,procédure/ordre
+utaratibu,u-taratibu,2,sentencepiece,-ut-ar-ati-bu,5,0,0.0,CL11-ordre,procédure/ordre
+mazingira,ma-zingira,2,tiktoken,ma-z-ing-i-ra,5,1,0.2,CL6-environnement,environnement
+mazingira,ma-zingira,2,sentencepiece,ma-z-ingi-ra,4,1,0.25,CL6-environnement,environnement
