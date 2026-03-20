@@ -1,0 +1,31 @@
+id,langue,fichier_audio,texte_fr,texte_traduit,locuteur,source,paire_minimale
+audio_001,fongbe,audio_001.mp3,Bonjour., "Kúdó zǎnzǎn",L1_féminin,enregistrement propre,non
+audio_002,fongbe,audio_002.mp3,Tu es là ?, "a do fín a",L1_féminin,enregistrement propre,non
+audio_003,fongbe,audio_003.mp3,Au revoir, "Édàbò",L1_féminin,enregistrement propre,non
+audio_004,fongbe,audio_004.mp3,Portes ton habit., "Do àwù to wɛ́ ?",L1_féminin,enregistrement propre,non
+audio_005,fongbe,audio_005.mp3,Leur mur est propre, "Do étɔn kújí ?",L1_féminin,enregistrement propre,non
+audio_006,fongbe,audio_006.mp3,Je suis ici., "Un do fí",L1_féminin,enregistrement propre,non
+audio_007,fongbe,audio_007.mp3,Où travailles-tu ?, "Fítɛ́ a ka nɔ wa azɔ̌ ɖe",L1_féminin,enregistrement propre,non
+audio_008,fongbe,audio_008.mp3,Je suis fatiguée., "Nǔ cikɔ́ nú mì",L1_féminin,enregistrement propre,non
+audio_009,fongbe,audio_009.mp3,Reine., "Nán",L1_féminin,enregistrement propre,oui
+audio_010,fongbe,audio_010.mp3,Donne., "Ná",L1_féminin,enregistrement propre,oui
+audio_011,fongbe,audio_011.mp3,Maladie., "Àzɔ́n",L1_féminin,enregistrement propre,oui
+audio_012,fongbe,audio_012.mp3,Travail., "Àzɔ̌",L1_féminin,enregistrement propre,oui
+audio_013,fongbe,audio_013.mp3,Mari., "Asɔ́",L1_féminin,enregistrement propre,oui
+audio_014,fongbe,audio_014.mp3,Tu as grandi., "Àsɔ̀",L1_féminin,enregistrement propre,oui
+audio_015,fongbe,audio_015.mp3,Oreille., "Tó",L1_féminin,enregistrement propre,oui
+audio_016,fongbe,audio_016.mp3,Pays., "Tò",L1_féminin,enregistrement propre,oui
+audio_017,fongbe,audio_017.mp3,Doucement., "Zan kóú",L1_féminin,enregistrement propre,non
+audio_018,fongbe,audio_018.mp3,Mon frère., "Nɔ̀nví tché",L1_féminin,enregistrement propre,non
+audio_019,fongbe,audio_019.mp3,Viens ici., "Wá fí",L1_féminin,enregistrement propre,non
+audio_020,fongbe,audio_020.mp3,Je lis un bon livre., "Un ɖo wémà ɖagbé ɖé xa wɛ",L1_féminin,enregistrement propre,non
+audio_021,fongbe,audio_021.mp3,Je vous ai dit de vous asseoir., "Un ɖɔ nú mi ɖɔ mi jínjɔ́n ayǐ",L1_féminin,enregistrement propre,non
+audio_022,fongbe,audio_022.mp3,Prends., "Yí",L1_féminin,enregistrement propre,oui
+audio_023,fongbe,audio_023.mp3,Va., "Yì",L1_féminin,enregistrement propre,oui
+audio_024,fongbe,audio_024.mp3,Je veux apprendre le swahili., "Un jló ná kplɔ́n Swahili",L1_féminin,enregistrement propre,non
+audio_025,fongbe,audio_025.mp3,Cou., "Kɔ́",L1_féminin,enregistrement propre,oui
+audio_026,fongbe,audio_026.mp3,Sable., "Kɔ̀",L1_féminin,enregistrement propre,oui
+audio_027,fongbe,audio_027.mp3,Il m'a insulté., "E zún mè",L1_féminin,enregistrement propre,non
+audio_028,fongbe,audio_028.mp3,Aujourd’hui est un bon jour., "Azǎn égbé tɔn ɔ́, azǎn ɖagbé ɖé wɛ",L1_féminin,enregistrement propre,non
+audio_029,fongbe,audio_029.mp3,Tu es une personne de petite taille., "A nyí mè glí",L1_féminin,enregistrement propre,non
+audio_030,fongbe,audio_030.mp3,Les enfants apprennent à l'école., "Vǐ lɛ ɖò nǔ kplɔ́n wɛ ɖò azɔ̌xɔmɛ",L1_féminin,enregistrement propre,non
