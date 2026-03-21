@@ -1,0 +1,9 @@
+﻿modele,langue,n,WER,CER
+whisper-small,fongbe,30,154.1,135.6
+whisper-small,wolof,35,99.3,74.2
+whisper-small,swahili,35,91.7,34.2
+whisper-small,global,100,101.9,59.7
+whisper-large-v3,fongbe,30,115.3,81.8
+whisper-large-v3,wolof,35,109.0,62.4
+whisper-large-v3,swahili,35,51.5,14.3
+whisper-large-v3,global,100,88.1,41.3

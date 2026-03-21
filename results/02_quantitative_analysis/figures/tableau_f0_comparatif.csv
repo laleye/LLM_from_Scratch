@@ -1,0 +1,8 @@
+﻿Métrique,Fongbé (tonal),Wolof (faib. tonal),Swahili (non tonal)
+F0 moyenne (Hz),231.83 ± 24.37,157.99 ± 46.54,187.64 ± 44.78
+F0 écart-type (Hz)  ← variabilité intra-énoncé,39.26 ± 17.97,26.73 ± 22.80,26.56 ± 14.30
+F0 range (Hz),140.51 ± 59.81,114.29 ± 73.84,129.73 ± 62.38
+F0 range (demi-tons),9.95 ± 3.82,12.01 ± 6.00,12.15 ± 4.62
+Pente F0 moyenne (Hz/ms),-0.02 ± 0.16,-0.01 ± 0.06,-0.01 ± 0.01
+Inflexions F0 par seconde,9.06 ± 4.22,11.70 ± 5.05,16.16 ± 2.53
+Ratio voisé,0.51 ± 0.19,0.44 ± 0.17,0.78 ± 0.06

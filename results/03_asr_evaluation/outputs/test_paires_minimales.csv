@@ -1,0 +1,7 @@
+﻿id_paire,ortho_h,ortho_b,trad_h,trad_b,whisper-small_hyp_h,whisper-small_hyp_b,whisper-small_distingue,whisper-large-v3_hyp_h,whisper-large-v3_hyp_b,whisper-large-v3_distingue
+pair_faudio_009, Nán, Ná,Reine.,Donne.,No.,No?,False,«На».,ना,True
+pair_faudio_011, Àzɔ́n, Àzɔ̌,Maladie.,Travail.,Sorry,as so,True,as one.,Alzo.,True
+pair_faudio_012, Asɔ́, Àsɔ̀,Mari.,Tu as grandi.,I assume,As you!,True,À sous.,Aço.,True
+pair_faudio_013, Tó, Tò,Oreille.,Pays.,two,two,False,To.,Tu.,True
+pair_faudio_022, Yí, Yì,Prends.,Va.,E,E,False,E,E,False
+pair_faudio_025, Kɔ́, Kɔ̀,Cou.,Sable.,Go.,Go.,False,K.,Kou.,True
