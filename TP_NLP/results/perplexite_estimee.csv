@@ -1,0 +1,11 @@
+langue,language,tokenizer,fertilite_B,pct_bytes,ppl_estimee,ratio_ppl_vs_fr,modele,interpretation
+Français,fr,tiktoken,2.263,0.5,22.2,1.01,Analytique calibré sur Rust et al. 2021 + pénalité bytes,Référence
+Wolof,wo,tiktoken,2.999,12.7,40.0,1.82,Analytique calibré sur Rust et al. 2021 + pénalité bytes,PPL 1.8× supérieure au français
+Yoruba,yo,tiktoken,6.345,58.5,193.9,8.82,Analytique calibré sur Rust et al. 2021 + pénalité bytes,PPL 8.8× supérieure au français
+Swahili,sw,tiktoken,3.904,0.2,50.0,2.27,Analytique calibré sur Rust et al. 2021 + pénalité bytes,PPL 2.3× supérieure au français
+Fongbé,fon,tiktoken,4.222,50.9,98.9,4.49,Analytique calibré sur Rust et al. 2021 + pénalité bytes,PPL 4.5× supérieure au français
+Français,fr,sentencepiece,2.291,0.4,22.1,1.01,Analytique calibré sur Rust et al. 2021 + pénalité bytes,Référence
+Wolof,wo,sentencepiece,2.835,13.5,36.4,1.66,Analytique calibré sur Rust et al. 2021 + pénalité bytes,PPL 1.7× supérieure au français
+Yoruba,yo,sentencepiece,2.902,14.6,38.2,1.74,Analytique calibré sur Rust et al. 2021 + pénalité bytes,PPL 1.7× supérieure au français
+Swahili,sw,sentencepiece,2.63,0.4,27.2,1.24,Analytique calibré sur Rust et al. 2021 + pénalité bytes,PPL 1.2× supérieure au français
+Fongbé,fon,sentencepiece,3.809,46.7,80.2,3.65,Analytique calibré sur Rust et al. 2021 + pénalité bytes,PPL 3.6× supérieure au français

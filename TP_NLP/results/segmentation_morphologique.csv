@@ -1,0 +1,151 @@
+id,subcorpus,language,parallel_group,text,num_words,num_morphemes,n_morphemes_seg,morphemes_detail,traduction_fr
+P001_fon,A_parallel,fon,P001,Sinsɛn ɔ ko ɖɔ nǔ yɔyɔ̌ lɛ dó azɔwanú jí.,10,11.0,13.0,Sinsɛn ɔ ko ɖɔ nǔ yɔyɔ̌ lɛ dó a|zɔ|wa|nú jí,Le gouvernement a annoncé de nouvelles mesures économiques.
+P001_fr,A_parallel,fr,P001,Le gouvernement a annoncé de nouvelles mesures économiques.,8,13.0,15.0,Le gouverne|ment a annonc|é de nouvel|le|s mesure|s économi|que|s,
+P001_sw,A_parallel,sw,P001,Serikali imetangaza hatua mpya za kiuchumi.,6,9.0,9.0,Serikali i|me|tangaza hatua mpya za ki|uchumi,Le gouvernement a annoncé de nouvelles mesures économiques.
+P001_wo,A_parallel,wo,P001,Dëkk bi dafa jox xëtu njëkëram ci yàgg-yàgg yu soppiku mbir yu njëkk.,13,16.0,15.0,Dëkk bi dafa jox xëtu njëkër|am ci yàgg-yàgg yu soppi|ku mbir yu njëkk,Le gouvernement a annoncé de nouvelles mesures économiques.
+P001_yo,A_parallel,yo,P001,Ìjọba ń kéde àwọn ìgbésẹ̀ ọrọ̀ ajé tuntun.,8,9.0,10.0,Ì|jọba ń kéde àwọn ì|gbésẹ̀ ọrọ̀ ajé tuntun,Le gouvernement a annoncé de nouvelles mesures économiques.
+P002_fon,A_parallel,fon,P002,É jí wɛ è gbɔn bó bló nǔ e ɖo gbɛ ɔ́ mɛ lɛ́ɛ bǐ; è blǒ nǔ ɖěbǔ é mɛ vo ǎ.,23,23.0,23.0,É jí wɛ è gbɔn bó bló nǔ e ɖo gbɛ ɔ mɛ lɛ bǐ è blǒ nǔ ɖěbǔ é mɛ vo ǎ,"Tout par lui a été fait, et sans lui n'a été fait rien de ce qui existe."
+P002_fr,A_parallel,fr,P002,"Tout par lui a été fait, et sans lui n'a été fait rien de ce qui existe.",17,19.0,21.0,Tout par lui a êtr|é fait et sans lui n' a êtr|é fait rien de ce qui exist|e,
+P002_sw,A_parallel,sw,P002,Kwa njia yake vitu vyote viliumbwa; hakuna hata kiumbe kimoja kilichoumbwa pasipo yeye. ,13,7.0,21.0,Kwa njia yake vi|tu vyote vi|li|umbwa hakuna hata ki|umbe ki|moja ki|li|cho|umbwa pasipo yeye,"Tout par lui a été fait, et sans lui n'a été fait rien de ce qui existe."
+P002_wo,A_parallel,wo,P002,Lépp ci Kàddu gi lañu ko sàkke. Sàkkeesul dara lu ñu sàkkewul ci moom.,14,17.0,17.0,Lépp ci Kàddu gi lañu ko sàkke Sàkke|es|ul dara lu ñu sàkke|wul ci moom,"Tout par lui a été fait, et sans lui n'a été fait rien de ce qui existe."
+P002_yo,A_parallel,yo,P002,Nípasẹ̀ rẹ̀ ni a dá ohun gbogbo; lẹ́yìn rẹ̀ a kò sì dá ohun kan nínú ohun tí a ti dá. ,21,20.0,22.0,Ní|pasẹ̀ rẹ̀ ni a dá ohun gbogbo lẹ́yìn rẹ̀ a kò sì dá ohun kan nínú ohun tí a ti dá,"Tout par lui a été fait, et sans lui n'a été fait rien de ce qui existe."
+P003_fon,A_parallel,fon,P003,Xó énɛ́ kó ɖe tɛgbɛ xá Mawu ɖo bǐbɛ́mɛ.,9,11.0,11.0,Xó énɛ kó ɖe tɛgbɛ xá Mawu ɖo bǐ|bɛ́|mɛ,Il était au commencement en Dieu.
+P003_fr,A_parallel,fr,P003,Il était au commencement en Dieu.,6,10.0,8.0,Il êtr|ait au commence|ment en Dieu,
+P003_sw,A_parallel,sw,P003,Tangu mwanzo Neno alikuwa na Mungu. ,6,11.0,8.0,Tangu mwanzo Neno a|li|kuwa na Mungu,Il était au commencement en Dieu.
+P003_wo,A_parallel,wo,P003,Njàlbéen ga fekk na Kàddu gi nekk ak Yàlla. ,9,9.0,9.0,Njàlbéen ga fekk na Kàddu gi nekk ak Yàlla,Il était au commencement en Dieu.
+P003_yo,A_parallel,yo,P003,Òun ni ó sì wà pẹ̀lú Ọlọ́run ní àtètèkọ́ṣe.,9,10.0,11.0,Òun ni ó sì wà pẹ̀lú Ọlọ́run ní à|tètè|kọ́ṣe,Il était au commencement en Dieu.
+P004_fon,A_parallel,fon,P004,"É mɛ wɛ gbɛ ɖe, bɔ gbɛ ɔ́ ka nɔ ná wěziza gbɛtɔ́. ",13,14.0,15.0,É mɛ wɛ gbɛ ɖe bɔ gbɛ ɔ ka nɔ ná wɛ|ziza gbɛ|tɔ,"En lui était la vie, et la vie était la lumière des hommes."
+P004_fr,A_parallel,fr,P004,"En lui était la vie, et la vie était la lumière des hommes.",13,17.0,17.0,En lui êtr|ait la vie et la vie êtr|ait la lumièr|e des homme|s,
+P004_sw,A_parallel,sw,P004,Yeye alikuwa chanzo cha uhai na uhai huo ulikuwa mwanga wa watu. ,12,7.0,18.0,Yeye a|li|kuwa chanzo cha u|hai na u|hai huo u|li|kuwa mwanga wa watu,"En lui était la vie, et la vie était la lumière des hommes."
+P004_wo,A_parallel,wo,P004,"Ci moom la dund nekk, te dund dig leer, ñeel nit ñi.",12,12.0,12.0,Ci moom la dund nekk te dund dig leer ñeel nit ñi,"En lui était la vie, et la vie était la lumière des hommes."
+P004_yo,A_parallel,yo,P004,"Nínú rẹ̀ ni ìyè wà, ìyè yìí náà sì ni ìmọ́lẹ̀ aráyé.",12,13.0,14.0,Nínú rẹ̀ ni ìyè wà ìyè yìí náà sì ni ì|mọ́lẹ̀ ar|ayé,"En lui était la vie, et la vie était la lumière des hommes."
+P005_fon,A_parallel,fon,P005,"É wá mɛ tɔn lɛ́ɛ gɔ́n, bɔ mɛ tɔn lɛ́ɛ ka yí i ǎ. ",14,14.0,14.0,É wá mɛ tɔn lɛ gɔn bɔ mɛ tɔn lɛ ka yí i ǎ,"Il vint chez lui, et les siens ne l'ont pas reçu."
+P005_fr,A_parallel,fr,P005,"Il vint chez lui, et les siens ne l'ont pas reçu.",11,13.0,16.0,Il vin|t chez lui et les sien|s ne l' on|t pas reç|u,
+P005_sw,A_parallel,sw,P005,"Alikuja katika nchi yake mwenyewe, nao walio wake hawakumpokea. ",9,11.0,16.0,A|li|kuja katika nchi yake mwenyewe nao wa|lio wake ha|wa|ku|m|pokea,"Il vint chez lui, et les siens ne l'ont pas reçu."
+P005_wo,A_parallel,wo,P005,"Ci ñoñam la ñëw, waaye ñoñam a ko dalalul.",9,11.0,12.0,Ci ñoñ|am la ñëw waaye ñoñ|am a ko dalal|ul,"Il vint chez lui, et les siens ne l'ont pas reçu."
+P005_yo,A_parallel,yo,P005,"Ó tọ àwọn tirẹ̀ wá, àwọn tirẹ̀ kò sì gbà á. ",11,11.0,11.0,Ó tọ àwọn tirẹ̀ wá àwọn tirẹ̀ kò sì gbà á,"Il vint chez lui, et les siens ne l'ont pas reçu."
+P006_fon,A_parallel,fon,P006," Mawu sɛ́ mɛɖé dó, bɔ nyǐkɔ tɔn nyí Jǎan .",9,10.0,11.0,Mawu sɛ́ mɛ|ɖé dó bɔ nyǐ|kɔ tɔn nyí Jǎan,"Il y eut un homme, envoyé de Dieu; son nom était Jean."
+P006_fr,A_parallel,fr,P006,"Il y eut un homme, envoyé de Dieu; son nom était Jean.",12,14.0,14.0,Il y eut un homme envoy|é de Dieu son nom êtr|ait Jean,
+P006_sw,A_parallel,sw,P006,Mungu alimtuma mtu mmoja jina lake Yohane.,7,8.0,10.0,Mungu a|li|m|tuma mtu mmoja jina lake Yohane,"Il y eut un homme, envoyé de Dieu; son nom était Jean."
+P006_wo,A_parallel,wo,P006,"Am na nit ku Yàlla yebal, ñu di ko wax Yaxya. ",11,11.0,11.0,Am na nit ku Yàlla yebal ñu di ko wax Yaxya,"Il y eut un homme, envoyé de Dieu; son nom était Jean."
+P006_yo,A_parallel,yo,P006,Ọkùnrin kan wà tí a rán láti ọ̀dọ̀ Ọlọ́run wá; orúkọ ẹni tí ń jẹ́ Johanu.,16,16.0,16.0,Ọkùnrin kan wà tí a rán láti ọ̀dọ̀ Ọlọ́run wá orúkọ ẹni tí ń jẹ́ Johanu,"Il y eut un homme, envoyé de Dieu; son nom était Jean."
+P007_fon,A_parallel,fon,P007,Nɔxuanú yɔyɔ̌ e xlɛ́ ɔ ko d'alɔ bo hwlɛn gbɛ̀ wema gègě.,12,14.0,15.0,Nɔ|xua|nú yɔyɔ̌ e xlɛ́ ɔ ko d'alɔ bo hwlɛn gbɛ̀ we|ma gègě,La médecine moderne a permis de sauver de nombreuses vies.
+P007_fr,A_parallel,fr,P007,La médecine moderne a permis de sauver de nombreuses vies.,10,14.0,17.0,La médecin|e modern|e a permi|s de sauv|er de nombreus|e|s vie|s,
+P007_sw,A_parallel,sw,P007,Dawa ya kisasa imesaidia kuokoa maisha mengi.,7,9.0,11.0,Dawa ya ki|sasa i|me|saidia ku|okoa maisha mengi,La médecine moderne a permis de sauver de nombreuses vies.
+P007_wo,A_parallel,wo,P007,Dëgëm bu yore bi dafa mën a dëkk yoon yi ngir méngal xel.,13,14.0,13.0,Dëgëm bu yore bi dafa mën a dëkk yoon yi ngir méngal xel,La médecine moderne a permis de sauver de nombreuses vies.
+P007_yo,A_parallel,yo,P007,Ìmọ̀ ìjìnlẹ̀ ogún òde òní ti gbà ọ̀pọ̀ ẹ̀mí là.,10,11.0,12.0,Ì|mọ̀ ì|jìnlẹ̀ ogún òde òní ti gbà ọ̀pọ̀ ẹ̀mí là,La médecine moderne a permis de sauver de nombreuses vies.
+P008_fon,A_parallel,fon,P008,Mɛxotɔ lɛ wɛ nyí nukɔnmɛ tɔn.,6,8.0,10.0,Mɛ|xo|tɔ lɛ wɛ nyí nu|kɔn|mɛ tɔn,Les jeunes sont l'avenir de la société.
+P008_fr,A_parallel,fr,P008,Les jeunes sont l'avenir de la société.,7,10.0,12.0,Les jeun|e|s son|t l' aven|ir de la société,
+P008_sw,A_parallel,sw,P008,Vijana ndio mustakabali wa jamii.,5,5.0,6.0,Vi|jana ndio mustakabali wa jamii,Les jeunes sont l'avenir de la société.
+P008_wo,A_parallel,wo,P008,Reew mi mooy yëngël bu suukandiku.,6,7.0,7.0,Reew mi mooy yëngël bu suukan|diku,Les jeunes sont l'avenir de la société.
+P008_yo,A_parallel,yo,P008,Àwọn ọ̀dọ́ ni ọjọ́ iwájú àwùjọ.,6,8.0,7.0,Àwọn ọ̀dọ́ ni ọjọ́ iwájú à|wùjọ,Les jeunes sont l'avenir de la société.
+P009_fon,A_parallel,fon,P009,Zɔ gbɛya ɔ nɔ nyí xwégbe nú suklu wema gègě.,10,13.0,14.0,Zɔ gbɛ|ya ɔ nɔ nyí xwé|gbe nú su|klu we|ma gègě,La forêt tropicale abrite des milliers d'espèces animales.
+P009_fr,A_parallel,fr,P009,La forêt tropicale abrite des milliers d'espèces animales.,8,14.0,17.0,La forêt tropic|al|e abrit|e des millier|s d' espèc|e|s animal|e|s,
+P009_sw,A_parallel,sw,P009,Msitu wa tropiki una maelfu ya spishi za wanyama.,9,9.0,11.0,Msitu wa tropiki u|na maelfu ya spishi za wa|nyama,La forêt tropicale abrite des milliers d'espèces animales.
+P009_wo,A_parallel,wo,P009,Kër bu yomb bi dafa am yoon yu bari yu xale yu jàmm.,13,13.0,13.0,Kër bu yomb bi dafa am yoon yu bari yu xale yu jàmm,La forêt tropicale abrite des milliers d'espèces animales.
+P009_yo,A_parallel,yo,P009,Igbó ilẹ̀ igbóná ní ẹgbẹẹgbẹ̀rún irú ẹranko.,7,10.0,7.0,Igbó ilẹ̀ igbóná ní ẹgbẹẹgbẹ̀rún irú ẹranko,La forêt tropicale abrite des milliers d'espèces animales.
+P010_fon,A_parallel,fon,P010,Nǔnywɛxɔ yɔyɔ̌ lɛ nɔ cí nǔ e mǐ nɔ wà gbɛ̀ mɛ tɔn.,13,15.0,15.0,Nǔ|nywɛ|xɔ yɔyɔ̌ lɛ nɔ cí nǔ e mǐ nɔ wà gbɛ̀ mɛ tɔn,Les nouvelles technologies changent notre façon de vivre.
+P010_fr,A_parallel,fr,P010,Les nouvelles technologies changent notre façon de vivre.,8,14.0,15.0,Les nouvel|le|s technologi|e|s chang|ent notr|e façon de vivr|e,
+P010_sw,A_parallel,sw,P010,Teknolojia mpya zinabadilisha njia yetu ya kuishi.,7,9.0,10.0,Teknolojia mpya zi|na|badilisha njia yetu ya ku|ishi,Les nouvelles technologies changent notre façon de vivre.
+P010_wo,A_parallel,wo,P010,Xeetu njëkëram yi ëpp ci kanam dañuy soppi yoon wu ñu dëkk.,12,14.0,12.0,Xeetu njëkëram yi ëpp ci kanam dañuy soppi yoon wu ñu dëkk,Les nouvelles technologies changent notre façon de vivre.
+P010_yo,A_parallel,yo,P010,Ìmọ̀ ẹ̀rọ tuntun ń yí ọ̀nà tí a ń gbé ayé padà.,12,13.0,13.0,Ì|mọ̀ ẹ̀rọ tuntun ń yí ọ̀nà tí a ń gbé ayé padà,Les nouvelles technologies changent notre façon de vivre.
+P011_fon,A_parallel,fon,P011,Ayikúngban ɔ nɔ mɛ zǎnsínsɛn gbɛ̀ gbɛ̀.,7,11.0,11.0,Ayi|kún|gban ɔ nɔ mɛ zǎn|sín|sɛn gbɛ̀ gbɛ̀,Le marché est ouvert chaque samedi matin.
+P011_fr,A_parallel,fr,P011,Le marché est ouvert chaque samedi matin.,7,11.0,9.0,Le march|é est ouver|t chaque samedi matin,
+P011_sw,A_parallel,sw,P011,Soko linafunguliwa kila Jumamosi asubuhi.,5,7.0,8.0,Soko li|na|fungu|liwa kila Jumamosi asubuhi,Le marché est ouvert chaque samedi matin.
+P011_wo,A_parallel,wo,P011,Marché bi dafa jëlëndiku Aseer bu nekk suba.,8,9.0,9.0,Marché bi dafa jëlëndi|ku Aseer bu nekk suba,Le marché est ouvert chaque samedi matin.
+P011_yo,A_parallel,yo,P011,Ọjà ń ṣí gbogbo Àbámẹ́ta òwúrọ̀.,6,9.0,8.0,Ọjà ń ṣí gbogbo À|bámẹ́ta ò|wúrọ̀,Le marché est ouvert chaque samedi matin.
+P012_fon,A_parallel,fon,P012,Suklu mɛ lɛ nɔ wɛn azɔ bo nɔ d'alɔ ɖò zɔ̌sisa.,11,13.0,15.0,Su|klu mɛ lɛ nɔ wɛn a|zɔ bo nɔ d'alɔ ɖò zɔ̌|si|sa,Les étudiants préparent leurs examens avec sérieux.
+P012_fr,A_parallel,fr,P012,Les étudiants préparent leurs examens avec sérieux.,7,14.0,11.0,Les étudiant|s prépar|ent leur|s examen|s avec sérieux,
+P012_sw,A_parallel,sw,P012,Wanafunzi wanajitayarisha kwa mitihani yao kwa uzito.,7,11.0,12.0,Wana|funzi wa|na|ji|tayarisha kwa mi|tahani yao kwa uzito,Les étudiants préparent leurs examens avec sérieux.
+P012_wo,A_parallel,wo,P012,Jangalekat yi dañuy sëtu ci jàngam yu ne ci kanam ak xam xam.,13,15.0,15.0,Jangale|kat yi dañuy sëtu ci jàng|am yu ne ci kanam ak xam xam,Les étudiants préparent leurs examens avec sérieux.
+P012_yo,A_parallel,yo,P012,Àwọn akẹ́kọ̀ọ́ ń múrasílẹ̀ fún àwọn ìdánwò wọn pẹ̀lú ìsirárà.,10,14.0,16.0,Àwọn a|kẹ́kọ̀ọ́ ń mú|ra|sílẹ̀ fún àwọn ì|dánwò wọn pẹ̀lú ì|si|rárà,Les étudiants préparent leurs examens avec sérieux.
+P013_fon,A_parallel,fon,P013,Fífá nyí nǔ e hɛn hudo nú tò ɔ tɔn gbigbɔ.,11,13.0,12.0,Fí|fá nyí nǔ e hɛn hudo nú tò ɔ tɔn gbigbɔ,La paix est nécessaire pour le développement d'un pays.
+P013_fr,A_parallel,fr,P013,La paix est nécessaire pour le développement d'un pays.,9,14.0,14.0,La paix est nécessair|e pour le développ|e|ment d' un pay|s,
+P013_sw,A_parallel,sw,P013,Amani inahitajika kwa maendeleo ya nchi.,6,8.0,9.0,Amani i|na|hitajika kwa ma|endeleo ya nchi,La paix est nécessaire pour le développement d'un pays.
+P013_wo,A_parallel,wo,P013,Jam mooy nit ki bëgg a yor ngir dëkk bi dëkk.,11,11.0,11.0,Jam mooy nit ki bëgg a yor ngir dëkk bi dëkk,La paix est nécessaire pour le développement d'un pays.
+P013_yo,A_parallel,yo,P013,Àlàáfíà ṣe pàtàkì fún ìdàgbàsókè orílẹ̀-èdè kan.,7,14.0,11.0,À|làáfíà ṣe pàtàkì fún ì|dàgbà|sókè orí|lẹ̀-èdè kan,La paix est nécessaire pour le développement d'un pays.
+P014_fon,A_parallel,fon,P014,Nyɔnu lɛ nɔ wà azɔ taji ɖò gbigbɔ mɛ.,9,11.0,12.0,Nyo|nu lɛ nɔ wà a|zɔ ta|ji ɖò gbigbɔ mɛ,Les femmes jouent un rôle crucial dans le développement.
+P014_fr,A_parallel,fr,P014,Les femmes jouent un rôle crucial dans le développement.,9,14.0,14.0,Les femm|e|s jou|ent un rôle crucial dans le développ|e|ment,
+P014_sw,A_parallel,sw,P014,Wanawake wana jukumu muhimu katika maendeleo.,6,8.0,8.0,Wana|wake wana jukumu muhimu katika ma|endeleo,Les femmes jouent un rôle crucial dans le développement.
+P014_wo,A_parallel,wo,P014,Jigéen yi am solo bu dëgëër ci njëkëram bu dëkk.,10,11.0,10.0,Jigéen yi am solo bu dëgëër ci njëkëram bu dëkk,Les femmes jouent un rôle crucial dans le développement.
+P014_yo,A_parallel,yo,P014,Àwọn obìnrin ń kó ipa pàtàkì nínú ìdàgbàsókè.,8,12.0,11.0,Àwọn o|bìnrin ń kó ipa pàtàkì nínú ì|dàgbà|sókè,Les femmes jouent un rôle crucial dans le développement.
+P015_fon,A_parallel,fon,P015,Hɛn Afrique tɔn nyí nǔ nyanya e ɖè dindo kpo xó kpo.,12,14.0,13.0,Hɛn Afrique tɔn nyí nǔ nya|nya e ɖè dindo kpo xó kpo,La musique africaine est riche en rythmes et en mélodies.
+P015_fr,A_parallel,fr,P015,La musique africaine est riche en rythmes et en mélodies.,10,15.0,16.0,La musiqu|e african|e est rich|e en rhythm|e|s et en mélodie|s,
+P015_sw,A_parallel,sw,P015,Muziki wa Kiafrika una utajiri wa midundo na nyimbo.,9,10.0,12.0,Muziki wa Ki|Afrika u|na utajiri wa mi|dundo na nyimbo,La musique africaine est riche en rythmes et en mélodies.
+P015_wo,A_parallel,wo,P015,Xoloor wu Afrig wi dafa jar xeetu waxtaan yi te yomb yi.,12,12.0,12.0,Xoloor wu Afrig wi dafa jar xeetu waxtaan yi te yomb yi,La musique africaine est riche en rythmes et en mélodies.
+P015_yo,A_parallel,yo,P015,Orin Áfíríkà jẹ ọlọ́rọ̀ nínú rítimù àti orin.,8,9.0,9.0,Orin Áfíríkà jẹ ọ|lọ́rọ̀ nínú rítimù àti orin,La musique africaine est riche en rythmes et en mélodies.
+P016_fon,A_parallel,fon,P016,Mǐ ɖó na gbí ayikúngban ɔ bɔ zǎngbeto lɛ na ɖu.,11,13.0,14.0,Mǐ ɖó na gbí ayi|kún|gban ɔ bɔ zǎn|gbeto lɛ na ɖu,Il faut protéger l'environnement pour les générations futures.
+P016_fr,A_parallel,fr,P016,Il faut protéger l'environnement pour les générations futures.,8,14.0,15.0,Il faut protég|er l' environ|ne|ment pour les génération|s futur|e|s,
+P016_sw,A_parallel,sw,P016,Tunahitaji kulinda mazingira kwa vizazi vijavyo.,6,9.0,12.0,Tu|na|hitaji ku|linda mazingira kwa vi|zazi vi|ja|vyo,Il faut protéger l'environnement pour les générations futures.
+P016_wo,A_parallel,wo,P016,Da fa war anu xam xam ci ndaw mi ngir njiit yi.,12,12.0,12.0,Da fa war anu xam xam ci ndaw mi ngir njiit yi,Il faut protéger l'environnement pour les générations futures.
+P016_yo,A_parallel,yo,P016,A gbọdọ daabobo àyíká fún àwọn ìran tó ń bọ̀.,10,13.0,15.0,A gbọdọ da|a|bo|bo à|yíká fún àwọn ì|ran tó ń bọ̀,Il faut protéger l'environnement pour les générations futures.
+P017_fon,A_parallel,fon,P017,Fútibɔ̌ wɛ nyí ɖɔgbɔ taji ɖò Afrique.,7,8.0,11.0,Fú|ti|bɔ̌ wɛ nyí ɖɔ|gbɔ ta|ji ɖò Afrique,Le football est le sport le plus populaire en Afrique.
+P017_fr,A_parallel,fr,P017,Le football est le sport le plus populaire en Afrique.,10,14.0,12.0,Le football est le sport le plus populair|e en Afriqu|e,
+P017_sw,A_parallel,sw,P017,Soka ndilo mchezo maarufu zaidi barani Afrika.,7,7.0,8.0,Soka ndilo m|chezo maarufu zaidi barani Afrika,Le football est le sport le plus populaire en Afrique.
+P017_wo,A_parallel,wo,P017,Foot mooy game wu ëpp ci Afrig.,7,7.0,7.0,Foot mooy game wu ëpp ci Afrig,Le football est le sport le plus populaire en Afrique.
+P017_yo,A_parallel,yo,P017,Bọ́ọ̀lù afẹsẹ jẹ eré ìdárayá tó gbajúmọ̀ jùlọ ní Áfíríkà.,10,14.0,13.0,Bọ́ọ̀lù a|fẹsẹ jẹ eré ì|dárayá tó gbajú|mọ̀ jùlọ ní Áfíríkà,Le football est le sport le plus populaire en Afrique.
+P018_fon,A_parallel,fon,P018,Nǔkplɔnkplɔn tɔ lɛ nɔ yì sín zǎngbeto ɖokpo jɛ alɔ ɖevo.,11,16.0,15.0,Nǔ|kplɔn|kplɔn tɔ lɛ nɔ yì sín zǎn|gbeto ɖo|kpo jɛ alɔ ɖevo,Les traditions culturelles sont transmises de génération en génération.
+P018_fr,A_parallel,fr,P018,Les traditions culturelles sont transmises de génération en génération.,9,17.0,16.0,Les tradition|s cultur|el|le|s son|t transmis|e|s de génération en génération,
+P018_sw,A_parallel,sw,P018,Mila za kitamaduni zinapitishwa kutoka kizazi hadi kizazi.,8,10.0,13.0,Mila za ki|tamaduni zi|na|pitishwa kutoka ki|zazi hadi ki|zazi,Les traditions culturelles sont transmises de génération en génération.
+P018_wo,A_parallel,wo,P018,Xeeyu mbind mi dafa jël ci kanam ca biir mbokk yi.,11,11.0,11.0,Xeeyu mbind mi dafa jël ci kanam ca biir mbokk yi,Les traditions culturelles sont transmises de génération en génération.
+P018_yo,A_parallel,yo,P018,A ń gbé àwọn àṣà ìbílẹ̀ kálẹ̀ láti ìran sí ìran.,11,16.0,15.0,A ń gbé àwọn à|ṣà ì|bílẹ̀ kálẹ̀ láti ì|ran sí ì|ran,Les traditions culturelles sont transmises de génération en génération.
+P019_fon,A_parallel,fon,P019,Rédio wɛ nyí hɛn taji ɖò toxo mɛ.,8,9.0,9.0,Rédio wɛ nyí hɛn ta|ji ɖò toxo mɛ,La radio est un moyen de communication important en zone rurale.
+P019_fr,A_parallel,fr,P019,La radio est un moyen de communication important en zone rurale.,11,17.0,15.0,La radio est un moyen de commun|ic|ation important en zon|e rural|e,
+P019_sw,A_parallel,sw,P019,Redio ni njia muhimu ya mawasiliano katika maeneo ya vijijini.,10,11.0,13.0,Redio ni njia muhimu ya ma|wasiliano katika ma|eneo ya vi|jijini,La radio est un moyen de communication important en zone rurale.
+P019_wo,A_parallel,wo,P019,Radyo mooy yoon wu am solo ci dëkk bu wer.,10,10.0,10.0,Radyo mooy yoon wu am solo ci dëkk bu wer,La radio est un moyen de communication important en zone rurale.
+P019_yo,A_parallel,yo,P019,Rédíò jẹ ọ̀nà ìbáraẹniṣepọ̀ pàtàkì ní àgbègbè ìdílé.,8,16.0,12.0,Rédíò jẹ ọ̀nà ì|báraẹni|ṣepọ̀ pàtàkì ní à|gbègbè ì|dílé,La radio est un moyen de communication important en zone rurale.
+P020_fon,A_parallel,fon,P020,Vǐ lɛ ɖó nǔkplɔnkplɔn sí ɖò tò lɛ bǐ mɛ.,10,13.0,12.0,Vǐ lɛ ɖó nǔ|kplɔn|kplɔn sí ɖò tò lɛ bǐ mɛ,Les enfants ont droit à l'éducation dans tous les pays.
+P020_fr,A_parallel,fr,P020,Les enfants ont droit à l'éducation dans tous les pays.,10,14.0,15.0,Les enfant|s on|t droit à l' éduc|ation dans tous les pay|s,
+P020_sw,A_parallel,sw,P020,Watoto wana haki ya elimu katika nchi zote.,8,8.0,10.0,Wa|toto wa|na haki ya elimu katika nchi zote,Les enfants ont droit à l'éducation dans tous les pays.
+P020_wo,A_parallel,wo,P020,Xale yi am sant ci jàng ci dëkk yépp.,9,9.0,9.0,Xale yi am sant ci jàng ci dëkk yépp,Les enfants ont droit à l'éducation dans tous les pays.
+P020_yo,A_parallel,yo,P020,Àwọn ọmọ ní ẹ̀tọ́ sí ẹ̀kọ́ ní gbogbo orílẹ̀-èdè.,9,13.0,12.0,Àwọn ọmọ ní ẹ̀|tọ́ sí ẹ̀|kọ́ ní gbogbo orí|lẹ̀-èdè,Les enfants ont droit à l'éducation dans tous les pays.
+P021_fon,A_parallel,fon,P021,Hwɛzɔ ɔ gbɔn tawun ɖò azǎn susu.,7,9.0,11.0,Hwɛ|zɔ ɔ gbɔn ta|wun ɖò a|zǎn su|su,La chaleur du soleil est intense en saison sèche.
+P021_fr,A_parallel,fr,P021,La chaleur du soleil est intense en saison sèche.,9,13.0,11.0,La chaleur du soleil est intens|e en saison sèch|e,
+P021_sw,A_parallel,sw,P021,Joto la jua ni kali sana wakati wa kiangazi.,9,8.0,10.0,Joto la jua ni kali sana wakati wa ki|angazi,La chaleur du soleil est intense en saison sèche.
+P021_wo,A_parallel,wo,P021,Tëdd bu jant bi dafa tang sëgën ci yaj yi.,10,10.0,10.0,Tëdd bu jant bi dafa tang sëgën ci yaj yi,La chaleur du soleil est intense en saison sèche.
+P021_yo,A_parallel,yo,P021,Ìgbóná oòrùn náà pọ̀ ní àkókò ọjọ́ ogbele.,8,11.0,11.0,Ì|gbóná oò|rùn náà pọ̀ ní à|kókò ọjọ́ ogbele,La chaleur du soleil est intense en saison sèche.
+P022_fon,A_parallel,fon,P022,Tɔ̀ gbɛ̀ mɛ nɔ yì dó nǔ e nyí toxo mɛ.,11,12.0,11.0,Tɔ̀ gbɛ̀ mɛ nɔ yì dó nǔ e nyí toxo mɛ,Les hôpitaux manquent souvent de médicaments et de personnel.
+P022_fr,A_parallel,fr,P022,Les hôpitaux manquent souvent de médicaments et de personnel.,9,14.0,13.0,Les hôpitaux manqu|ent souv|ent de médicament|s et de person|nel,
+P022_sw,A_parallel,sw,P022,Hospitali mara nyingi zinakosekana dawa na wafanyakazi.,7,8.0,10.0,Hospitali mara nyingi zi|na|kosekana dawa na wa|fanyakazi,Les hôpitaux manquent souvent de médicaments et de personnel.
+P022_wo,A_parallel,wo,P022,Dëkk-dëkk yi dañ mën a metti ak nit-jëkëram.,8,11.0,9.0,Dëkk-dëkk yi dañ mën a metti ak nit-jëkër|am,Les hôpitaux manquent souvent de médicaments et de personnel.
+P022_yo,A_parallel,yo,P022,Àwọn ilé ìwòsàn máa ń ṣàì ní ìpésẹ̀ oògùn àti àwọn òṣìṣẹ́.,12,18.0,15.0,Àwọn ilé ì|wòsàn máa ń ṣàì ní ì|pésẹ̀ oògùn àti àwọn ò|ṣìṣẹ́,Les hôpitaux manquent souvent de médicaments et de personnel.
+P023_fon,A_parallel,fon,P023,Dokunsinsɛn wɛ nyí buntɔ gbɛ̀ taji.,6,9.0,11.0,Do|kun|sin|sɛn wɛ nyí bun|tɔ gbɛ̀ ta|ji,L'agriculture est la principale source de revenus.
+P023_fr,A_parallel,fr,P023,L'agriculture est la principale source de revenus.,7,11.0,14.0,L' agri|cultur|e est la princip|al|e sourc|e de revenu|s,
+P023_sw,A_parallel,sw,P023,Kilimo ni chanzo kikuu cha mapato.,6,7.0,9.0,Ki|limo ni chanzo ki|kuu cha ma|pato,L'agriculture est la principale source de revenus.
+P023_wo,A_parallel,wo,P023,Jëf-jëf bu dëkk mooy yoon wu njëkk wu xalis.,9,10.0,9.0,Jëf-jëf bu dëkk mooy yoon wu njëkk wu xalis,L'agriculture est la principale source de revenus.
+P023_yo,A_parallel,yo,P023,Iṣẹ́ àgbẹ̀ ni orísun àpéjẹpọ̀ àkọ́kọ́.,6,13.0,12.0,I|ṣẹ́ à|gbẹ̀ ni orí|sun à|pé|jẹpọ̀ à|kọ́kọ́,L'agriculture est la principale source de revenus.
+P024_fon,A_parallel,fon,P024,Tɔ ɔ nɔ já xá kple toxo gègě.,8,9.0,8.0,Tɔ ɔ nɔ já xá kple toxo gègě,Le fleuve traverse plusieurs villes et villages.
+P024_fr,A_parallel,fr,P024,Le fleuve traverse plusieurs villes et villages.,7,11.0,12.0,Le fleuve travers|e plusieurs vill|e|s et villag|e|s,
+P024_sw,A_parallel,sw,P024,Mto unapita katika miji na vijiji vingi.,7,8.0,11.0,Mto u|na|pita katika mi|ji na vi|jiji vingi,Le fleuve traverse plusieurs villes et villages.
+P024_wo,A_parallel,wo,P024,Géej gi dafa tàkk dëkk yi ak penku yi.,9,9.0,9.0,Géej gi dafa tàkk dëkk yi ak penku yi,Le fleuve traverse plusieurs villes et villages.
+P024_yo,A_parallel,yo,P024,Odò náà ń gba ọ̀pọ̀ ìlú àti abúlé kọjá.,9,12.0,11.0,Odò náà ń gba ọ̀pọ̀ ì|lú àti a|búlé kọjá,Le fleuve traverse plusieurs villes et villages.
+P025_fon,A_parallel,fon,P025,Hɛn yɔdó mɛ nɔ d'alɔ bɔ mɛ na sixu wá jɛ nǔ e ɖó na mɔ.,16,17.0,17.0,Hɛn yɔ|dó mɛ nɔ d'alɔ bɔ mɛ na sixu wá jɛ nǔ e ɖó na mɔ,La construction de routes améliore l'accès aux services.
+P025_fr,A_parallel,fr,P025,La construction de routes améliore l'accès aux services.,8,13.0,15.0,La construct|ion de rout|e|s amélior|e l' accès aux servic|e|s,
+P025_sw,A_parallel,sw,P025,Ujenzi wa barabara unaboresha ufikiaji wa huduma.,7,10.0,12.0,U|jenzi wa barabara u|na|boresha u|fikiaji wa hu|duma,La construction de routes améliore l'accès aux services.
+P025_wo,A_parallel,wo,P025,Def ñaari yoon yi dafa yem ci njëkëram.,8,9.0,8.0,Def ñaari yoon yi dafa yem ci njëkëram,La construction de routes améliore l'accès aux services.
+P025_yo,A_parallel,yo,P025,Ìkọ́ òpópónà ń mú ìránnilọ sí àwọn iṣẹ́ dára.,9,15.0,13.0,Ì|kọ́ ò|pópónà ń mú ì|ránnilọ sí àwọn i|ṣẹ́ dára,La construction de routes améliore l'accès aux services.
+P026_fon,A_parallel,fon,P026,Tɔ́ kpo nɔ kpo nyí nǔ taji ɖò vǐ lɛ tɔn kplɔnkplɔn mɛ.,13,14.0,15.0,Tɔ́ kpo nɔ kpo nyí nǔ ta|ji ɖò vǐ lɛ tɔn kplɔn|kplɔn mɛ,Les parents jouent un rôle essentiel dans l'éducation des enfants.
+P026_fr,A_parallel,fr,P026,Les parents jouent un rôle essentiel dans l'éducation des enfants.,10,15.0,15.0,Les parent|s jou|ent un rôle essentiel dans l' éduc|ation des enfant|s,
+P026_sw,A_parallel,sw,P026,Wazazi wana jukumu muhimu katika malezi ya watoto.,8,10.0,12.0,Wa|zazi wa|na jukumu muhimu katika ma|lezi ya wa|toto,Les parents jouent un rôle essentiel dans l'éducation des enfants.
+P026_wo,A_parallel,wo,P026,Yaay-baay yi am solo bu dëgëër ci jàng xale yi.,10,10.0,10.0,Yaay-baay yi am solo bu dëgëër ci jàng xale yi,Les parents jouent un rôle essentiel dans l'éducation des enfants.
+P026_yo,A_parallel,yo,P026,Àwọn òbí kó ipa pàtàkì nínú ẹ̀kọ́ àwọn ọmọ.,9,11.0,11.0,Àwọn ò|bí kó ipa pàtàkì nínú ẹ̀|kọ́ àwọn ọmọ,Les parents jouent un rôle essentiel dans l'éducation des enfants.
+P027_fon,A_parallel,fon,P027,Ahwɛ́ lɛlɛ̀ ɔ nɔ xlɛ́ ɖɔ nǔɖuɖu sín hwɛjijɔ nɔ ɖó tɛnmɛ.,12,17.0,18.0,Ahwɛ́ lɛ|lɛ̀ ɔ nɔ xlɛ́ ɖɔ nǔ|ɖu|ɖu sín hwɛ|ji|jɔ nɔ ɖó tɛn|mɛ,Le changement climatique menace la sécurité alimentaire.
+P027_fr,A_parallel,fr,P027,Le changement climatique menace la sécurité alimentaire.,7,13.0,14.0,Le change|ment climat|iqu|e menac|e la sécur|ité aliment|air|e,
+P027_sw,A_parallel,sw,P027,Mabadiliko ya tabianchi yanaitishia usalama wa chakula.,7,12.0,14.0,Ma|badiliko ya tabia|nchi ya|na|i|tishia u|salama wa cha|kula,Le changement climatique menace la sécurité alimentaire.
+P027_wo,A_parallel,wo,P027,Soppi ci xeex bi dafa jëm ci xeex bi.,9,9.0,9.0,Soppi ci xeex bi dafa jëm ci xeex bi,Le changement climatique menace la sécurité alimentaire.
+P027_yo,A_parallel,yo,P027,Ìyípadà ojú ọjọ́ ń ṣe ewu ìdáàbòbò oúnjẹ.,8,15.0,10.0,Ì|yípadà ojú ọjọ́ ń ṣe ewu ì|dáàbòbò oúnjẹ,Le changement climatique menace la sécurité alimentaire.
+P028_fon,A_parallel,fon,P028,Mɛ e nɔ wà azɔ bǎ tɔn lɛ nɔ dó dandanxɛ lɛ sísí.,13,15.0,17.0,Mɛ e nɔ wà a|zɔ bǎ tɔn lɛ nɔ dó dan|dan|xɛ lɛ sí|sí,Les artisans préservent les techniques traditionnelles.
+P028_fr,A_parallel,fr,P028,Les artisans préservent les techniques traditionnelles.,6,12.0,13.0,Les artisan|s préserv|ent les techniqu|e|s tradition|nel|le|s,
+P028_sw,A_parallel,sw,P028,Mafundi wanaendeleza mbinu za asili.,5,7.0,9.0,Ma|fundi wa|na|endeleza m|binu za asili,Les artisans préservent les techniques traditionnelles.
+P028_wo,A_parallel,wo,P028,Ndawrabkat yi dañuy topp xeeyu mbind mi.,7,9.0,8.0,Ndawrab|kat yi dañuy topp xeeyu mbind mi,Les artisans préservent les techniques traditionnelles.
+P028_yo,A_parallel,yo,P028,Àwọn ọnàkọjà ń ṣọ́ àwọn ọ̀nà ìbílẹ̀.,7,12.0,9.0,Àwọn ọ|nàkọjà ń ṣọ́ àwọn ọ̀nà ì|bílẹ̀,Les artisans préservent les techniques traditionnelles.
+P029_fon,A_parallel,fon,P029,Internet sín hɛn nyanya ɔ nɔ cí azɔwanú yɔyɔ̌.,9,11.0,13.0,Internet sín hɛn nya|nya ɔ nɔ cí a|zɔ|wa|nú yɔyɔ̌,L'accès à internet transforme l'économie numérique.
+P029_fr,A_parallel,fr,P029,L'accès à internet transforme l'économie numérique.,6,11.0,11.0,L' accès à internet transform|e l' économi|e numériqu|e,
+P029_sw,A_parallel,sw,P029,Ufikiaji wa intaneti unabadilisha uchumi wa kidijitali.,7,10.0,12.0,U|fikiaji wa intaneti u|na|badilisha u|chumi wa ki|dijitali,L'accès à internet transforme l'économie numérique.
+P029_wo,A_parallel,wo,P029,Yoon wu internet wi dafa soppi njëkëram bu numériqu.,9,10.0,9.0,Yoon wu internet wi dafa soppi njëkëram bu numériqu,L'accès à internet transforme l'économie numérique.
+P029_yo,A_parallel,yo,P029,Ìránnilọ sí íntánẹ́ẹ̀tì ń yí ọrọ̀ ajé dígítà pada.,9,11.0,10.0,Ì|ránnilọ sí íntánẹ́ẹ̀tì ń yí ọrọ̀ ajé dígítà pada,L'accès à internet transforme l'économie numérique.
+P030_fon,A_parallel,fon,P030,Nǔwiwa ɖokpo e mɛ lɛ nɔ wà d'eji ɔ nɔ d'alɔ bo na mɔ fífá.,15,19.0,19.0,Nǔ|wi|wa ɖo|kpo e mɛ lɛ nɔ wà d'eji ɔ nɔ d'alɔ bo na mɔ fí|fá,La solidarité entre les peuples favorise la paix mondiale.
+P030_fr,A_parallel,fr,P030,La solidarité entre les peuples favorise la paix mondiale.,9,13.0,14.0,La solidar|ité entre les peupl|e|s favoris|e la paix mondial|e,
+P030_sw,A_parallel,sw,P030,Mshikamano kati ya watu unaendeleza amani duniani.,7,9.0,12.0,M|shikamano kati ya wa|tu u|na|endeleza amani dunia|ni,La solidarité entre les peuples favorise la paix mondiale.
+P030_wo,A_parallel,wo,P030,Ëllëg bu nit yi ci kanam dafa dëkk jam ci àdduna bi.,12,12.0,12.0,Ëllëg bu nit yi ci kanam dafa dëkk jam ci àdduna bi,La solidarité entre les peuples favorise la paix mondiale.
+P030_yo,A_parallel,yo,P030,Ìfọwọsowọpọ̀ láàárín àwọn ènìyàn ń ṣe ìtọ́jú àlàáfíà àgbáyé.,9,20.0,15.0,Ì|fọwọ|so|wọpọ̀ láàárín àwọn ènìyàn ń ṣe ì|tọ́jú à|làáfíà à|gbáyé,La solidarité entre les peuples favorise la paix mondiale.

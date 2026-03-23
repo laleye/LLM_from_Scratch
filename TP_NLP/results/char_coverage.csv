@@ -1,0 +1,16 @@
+Mot,Unicode_principal,Langue,Description,tiktoken_découpage,tiktoken_n_tokens,tiktoken_n_bytes,tiktoken_pct_bytes,sp_découpage,sp_n_tokens,sp_n_bytes,sp_pct_bytes,n_chars,ratio_tok_char_tiktoken
+ọba,U+1ECD,Yoruba,roi (o-souspoint),▁ọ | ba,2,0,0.0,▁ọ | ba,2,0,0.0,3,0.67
+ẹja,U+1EB9,Yoruba,poisson (e-souspoint),▁ẹja,1,0,0.0,▁ẹja,1,0,0.0,3,0.33
+ṣiṣẹ,U+1E63,Yoruba,travail (s-souspoint),▁ṣiṣ | ẹ,2,0,0.0,▁ṣ | iṣ | ẹ,3,0,0.0,4,0.5
+ọmọ,U+1ECD,Yoruba,enfant,▁ọmọ,1,0,0.0,▁ọmọ,1,0,0.0,3,0.33
+ẹ̀kọ́,U+1EB9,Yoruba,éducation,▁ẹ̀kọ́,1,0,0.0,▁ẹ̀kọ́,1,0,0.0,5,0.2
+àgbàdo,U+00E0,Yoruba,maïs,▁àgbàdo,1,0,0.0,▁àgbàdo,1,0,0.0,6,0.17
+ɛ̀,U+025B,Fongbé,particule ton bas,▁ | ɛ̀,2,0,0.0,▁ | ɛ̀,2,0,0.0,2,1.0
+ɔ̌,U+0254,Fongbé,particule caron,▁ɔ | ̌,2,0,0.0,▁ɔ | ̌,2,0,0.0,2,1.0
+ɖò,U+0256,Fongbé,locatif,▁ɖò,1,0,0.0,▁ɖò,1,0,0.0,2,0.5
+nǔ,U+0148,Fongbé,chose,▁nǔ,1,0,0.0,▁nǔ,1,0,0.0,2,0.5
+bëgg,U+00EB,Wolof,vouloir (gémination),▁bëgg,1,0,0.0,▁bëgg,1,0,0.0,4,0.25
+jàmm,U+00E0,Wolof,paix (gémination),▁jàmm,1,0,0.0,▁jàmm,1,0,0.0,4,0.25
+ñu,U+00F1,Wolof,ils/elles,▁ñu,1,0,0.0,▁ñu,1,0,0.0,2,0.5
+hatutakapokuwa,N/A,Swahili,quand nous ne serons pas,▁hatu | taka | pokuwa,3,0,0.0,▁ha | tu | ta | ka | pokuwa,5,0,0.0,14,0.21
+wanajiandaa,N/A,Swahili,ils se préparent,▁wanajiandaa,1,0,0.0,▁wanajiandaa,1,0,0.0,11,0.09

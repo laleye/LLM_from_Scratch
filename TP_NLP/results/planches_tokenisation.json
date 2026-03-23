@@ -7,21 +7,118 @@
     "tokenizations": {
       "tiktoken": {
         "n_tokens": 23,
-        "tokens": ["▁H","at","ut","a","k","ap","o","k","u","wa","▁tu","me","fi","k","a","▁ny","umb","an","i","▁b","ad","o","."]
+        "tokens": [
+          "▁H",
+          "at",
+          "ut",
+          "a",
+          "k",
+          "ap",
+          "o",
+          "k",
+          "u",
+          "wa",
+          "▁tu",
+          "me",
+          "fi",
+          "k",
+          "a",
+          "▁ny",
+          "umb",
+          "an",
+          "i",
+          "▁b",
+          "ad",
+          "o",
+          "."
+        ]
       },
       "sentencepiece": {
         "n_tokens": 19,
-        "tokens": ["▁H","at","ut","ak","ap","o","ku","wa","▁t","um","ef","ika","▁ny","umb","an","i","▁b","ad","o."]
+        "tokens": [
+          "▁H",
+          "at",
+          "ut",
+          "ak",
+          "ap",
+          "o",
+          "ku",
+          "wa",
+          "▁t",
+          "um",
+          "ef",
+          "ika",
+          "▁ny",
+          "umb",
+          "an",
+          "i",
+          "▁b",
+          "ad",
+          "o."
+        ]
       },
       "caractere": {
         "n_tokens": 38,
-        "tokens": ["H","a","t","u","t","a","k","a","p","o","k","u","w","a"," ","t","u","m","e","f","i","k","a"," ","n","y","u","m","b","a","n","i"," ","b","a","d","o","."]
+        "tokens": [
+          "H",
+          "a",
+          "t",
+          "u",
+          "t",
+          "a",
+          "k",
+          "a",
+          "p",
+          "o",
+          "k",
+          "u",
+          "w",
+          "a",
+          " ",
+          "t",
+          "u",
+          "m",
+          "e",
+          "f",
+          "i",
+          "k",
+          "a",
+          " ",
+          "n",
+          "y",
+          "u",
+          "m",
+          "b",
+          "a",
+          "n",
+          "i",
+          " ",
+          "b",
+          "a",
+          "d",
+          "o",
+          "."
+        ]
       },
       "mot": {
         "n_tokens": 4,
-        "tokens": ["Hatutakapokuwa","tumefika","nyumbani","bado."]
+        "tokens": [
+          "Hatutakapokuwa",
+          "tumefika",
+          "nyumbani",
+          "bado."
+        ]
       }
-    }
+    },
+    "traduction": "Quand nous ne voudrons pas être, nous serons arrivés à la maison",
+    "phenomene_linguistique": "Agglutination bantoue : ha-tu-taka-po-ku-wa = 6 morphèmes en 1 mot",
+    "annotations_par_tokenizer": {
+      "tiktoken": "Découpe arbitrairement : hatu|taka|pokuwa — aucune correspondance avec les frontières morphémiques ha-, -tu-, -taka-, -po-, -ku-, -wa. Le morphème de négation ha- est fusionné avec le sujet -tu-.",
+      "sentencepiece": "Légèrement meilleur : Ha|tu|ta|ka|po|kuwa — reconnaît ha, tu mais fusionne taka et pokuwa. L'aspect locatif -po- est perdu dans pokuwa.",
+      "caractere": "Découpe complète : chaque lettre = 1 token (30+ tokens). Aucune unité significative préservée.",
+      "mot": "1 seul token pour tout le mot. Opaque : le modèle ne peut pas apprendre la structure agglutinante."
+    },
+    "probleme_cle": "tiktoken coupe ha-tu en hatu, fusionnant la négation et le sujet. Résultat : le modèle ne peut pas apprendre que ha- = négatif et -tu- = 1ère personne pluriel."
   },
   {
     "language": "Swahili",
@@ -31,21 +128,112 @@
     "tokenizations": {
       "tiktoken": {
         "n_tokens": 24,
-        "tokens": ["▁H","a","wa","ja","k","w","is","ha","▁","k","uf","any","a","▁","k","az","i","▁z","ot","e","▁b","ad","o","."]
+        "tokens": [
+          "▁H",
+          "a",
+          "wa",
+          "ja",
+          "k",
+          "w",
+          "is",
+          "ha",
+          "▁",
+          "k",
+          "uf",
+          "any",
+          "a",
+          "▁",
+          "k",
+          "az",
+          "i",
+          "▁z",
+          "ot",
+          "e",
+          "▁b",
+          "ad",
+          "o",
+          "."
+        ]
       },
       "sentencepiece": {
         "n_tokens": 13,
-        "tokens": ["▁H","awa","j","ak","w","isha","▁kufanya","▁kazi","▁zote","▁b","ad","o","."]
+        "tokens": [
+          "▁H",
+          "awa",
+          "j",
+          "ak",
+          "w",
+          "isha",
+          "▁kufanya",
+          "▁kazi",
+          "▁zote",
+          "▁b",
+          "ad",
+          "o",
+          "."
+        ]
       },
       "caractere": {
         "n_tokens": 36,
-        "tokens": ["H","a","w","a","j","a","k","w","i","s","h","a"," ","k","u","f","a","n","y","a"," ","k","a","z","i"," ","z","o","t","e"," ","b","a","d","o","."]
+        "tokens": [
+          "H",
+          "a",
+          "w",
+          "a",
+          "j",
+          "a",
+          "k",
+          "w",
+          "i",
+          "s",
+          "h",
+          "a",
+          " ",
+          "k",
+          "u",
+          "f",
+          "a",
+          "n",
+          "y",
+          "a",
+          " ",
+          "k",
+          "a",
+          "z",
+          "i",
+          " ",
+          "z",
+          "o",
+          "t",
+          "e",
+          " ",
+          "b",
+          "a",
+          "d",
+          "o",
+          "."
+        ]
       },
       "mot": {
         "n_tokens": 5,
-        "tokens": ["Hawajakwisha","kufanya","kazi","zote","bado."]
+        "tokens": [
+          "Hawajakwisha",
+          "kufanya",
+          "kazi",
+          "zote",
+          "bado."
+        ]
       }
-    }
+    },
+    "traduction": "Ils n'ont pas encore fini de faire tous les travaux.",
+    "phenomene_linguistique": "Double agglutination : ha-wa-ja-kwisha + ku-fanya",
+    "annotations_par_tokenizer": {
+      "tiktoken": "Hawaja|kwisha ku|fanya — fusionne ha-wa-ja en Hawaja sans reconnaître les 3 morphèmes (NEG-3PL-ASPECT). Coupe également le préfixe infinitif ku-.",
+      "sentencepiece": "Ha|waja|kwisha ku|fanya — légère amélioration mais wa-ja reste fusionné.",
+      "caractere": "30+ tokens, aucune unité linguistique.",
+      "mot": "2 tokens : Hawajakwisha / kufanya — ignore la structure interne."
+    },
+    "probleme_cle": "Le morphème aspectuel -ja- (accompli négatif) est systématiquement fusionné avec le préfixe de sujet -wa-. Inadéquat linguistiquement."
   },
   {
     "language": "Yoruba",
@@ -55,21 +243,118 @@
     "tokenizations": {
       "tiktoken": {
         "n_tokens": 37,
-        "tokens": ["▁","<0xC3>","<0x80>","g","b","à","do","▁","<0xE1>","<0xBB>","<0x8D>","<0xCC>","<0x80>","d","<0xE1>","<0xBB>","<0x8C>","▁ni","▁a","▁gb","á","d","ùn","▁j","ùl","<0xE1>","<0xBB>","<0x8D>","."]
+        "tokens": [
+          "▁",
+          "<0xC3>",
+          "<0x80>",
+          "g",
+          "b",
+          "à",
+          "do",
+          "▁",
+          "<0xE1>",
+          "<0xBB>",
+          "<0x8D>",
+          "<0xCC>",
+          "<0x80>",
+          "d",
+          "<0xE1>",
+          "<0xBB>",
+          "<0x8C>",
+          "▁ni",
+          "▁a",
+          "▁gb",
+          "á",
+          "d",
+          "ùn",
+          "▁j",
+          "ùl",
+          "<0xE1>",
+          "<0xBB>",
+          "<0x8D>",
+          "."
+        ]
       },
       "sentencepiece": {
         "n_tokens": 23,
-        "tokens": ["▁","<0xC3>","<0x80>","gbà","do","▁","ọ̀","d","ọ̀","▁ni","▁a","▁gb","á","d","ùn","▁j","ùl","ọ","."]
+        "tokens": [
+          "▁",
+          "<0xC3>",
+          "<0x80>",
+          "gbà",
+          "do",
+          "▁",
+          "ọ̀",
+          "d",
+          "ọ̀",
+          "▁ni",
+          "▁a",
+          "▁gb",
+          "á",
+          "d",
+          "ùn",
+          "▁j",
+          "ùl",
+          "ọ",
+          "."
+        ]
       },
       "caractere": {
         "n_tokens": 30,
-        "tokens": ["À","g","b","à","d","o"," ","ọ","̀","d","ọ","̀"," ","n","i"," ","a"," ","g","b","á","d","ù","n"," ","j","ù","l","ọ","."]
+        "tokens": [
+          "À",
+          "g",
+          "b",
+          "à",
+          "d",
+          "o",
+          " ",
+          "ọ",
+          "̀",
+          "d",
+          "ọ",
+          "̀",
+          " ",
+          "n",
+          "i",
+          " ",
+          "a",
+          " ",
+          "g",
+          "b",
+          "á",
+          "d",
+          "ù",
+          "n",
+          " ",
+          "j",
+          "ù",
+          "l",
+          "ọ",
+          "."
+        ]
       },
       "mot": {
         "n_tokens": 6,
-        "tokens": ["Àgbàdo","ọ̀dọ̀","ni","a","gbádùn","jùlọ."]
+        "tokens": [
+          "Àgbàdo",
+          "ọ̀dọ̀",
+          "ni",
+          "a",
+          "gbádùn",
+          "jùlọ."
+        ]
       }
-    }
+    },
+    "traduction": "Le maïs frais est le plus apprécié.",
+    "phenomene_linguistique": "Diacritiques tonaux yoruba : ọ̀ (U+1ECD + U+0300) = o-souspoint + ton bas",
+    "annotations_par_tokenizer": {
+      "tiktoken": "àgbàdo ọ̀|dọ̀ — le caractère ọ̀ est fragmenté : U+1ECD (o-souspoint) + U+0300 (combining grave) = 2 tokens séparés. Le ton bas est détaché de la lettre qu'il modifie.",
+      "sentencepiece": "àgbàdo ọ̀dọ̀ — meilleur : ọ̀dọ̀ reste groupé car appris comme unité dans le corpus mixte.",
+      "caractere": "ọ̀ = 2 chars (base + diacritique combinant) = 2 tokens. Structure tonale visible mais pas interprétable.",
+      "mot": "6 tokens (1/mot). Tons préservés mais invisibles pour le modèle."
+    },
+    "probleme_cle": "tiktoken sépare ọ̀ en [ọ] + [̀]. Le diacritique de ton devient un token flottant sans signification. Le modèle ne peut pas apprendre que ọ̀ = 'o avec ton bas' ≠ ọ = 'o neutre' ≠ ọ́ = 'o avec ton haut'."
   },
   {
     "language": "Yoruba",
@@ -79,21 +364,131 @@
     "tokenizations": {
       "tiktoken": {
         "n_tokens": 44,
-        "tokens": ["▁K","<0xC3>","<0xB2>","s","ó","<0xC7>","<0xB9>","k","<0xC3>","<0xA1>","l","<0xC3>","<0xB9>","k","ú","▁j","<0xE1>","<0xB9>","<0xA3>","▁or","ú","k","<0xE1>","<0xBB>","<0x8D>","▁t","ó","▁","<0xE1>","<0xB9>","<0xA3>","<0xE1>","<0xBB>","<0x8D>","̀","t","ún","."]
+        "tokens": [
+          "▁K",
+          "<0xC3>",
+          "<0xB2>",
+          "s",
+          "ó",
+          "<0xC7>",
+          "<0xB9>",
+          "k",
+          "<0xC3>",
+          "<0xA1>",
+          "l",
+          "<0xC3>",
+          "<0xB9>",
+          "k",
+          "ú",
+          "▁j",
+          "<0xE1>",
+          "<0xB9>",
+          "<0xA3>",
+          "▁or",
+          "ú",
+          "k",
+          "<0xE1>",
+          "<0xBB>",
+          "<0x8D>",
+          "▁t",
+          "ó",
+          "▁",
+          "<0xE1>",
+          "<0xB9>",
+          "<0xA3>",
+          "<0xE1>",
+          "<0xBB>",
+          "<0x8D>",
+          "̀",
+          "t",
+          "ún",
+          "."
+        ]
       },
       "sentencepiece": {
         "n_tokens": 24,
-        "tokens": ["▁K","<0xC3>","<0xB2>","só","<0xC7>","<0xB9>","k","á","l","<0xC3>","<0xB9>","k","ú","▁j","ẹ","▁orúk","ọ","▁tó","▁ṣ","ọ̀","t","ún","."]
+        "tokens": [
+          "▁K",
+          "<0xC3>",
+          "<0xB2>",
+          "só",
+          "<0xC7>",
+          "<0xB9>",
+          "k",
+          "á",
+          "l",
+          "<0xC3>",
+          "<0xB9>",
+          "k",
+          "ú",
+          "▁j",
+          "ẹ",
+          "▁orúk",
+          "ọ",
+          "▁tó",
+          "▁ṣ",
+          "ọ̀",
+          "t",
+          "ún",
+          "."
+        ]
       },
       "caractere": {
         "n_tokens": 31,
-        "tokens": ["K","ò","s","ó","ǹ","k","á","l","ù","k","ú"," ","j","ẹ"," ","o","r","ú","k","ọ"," ","t","ó"," ","ṣ","ọ","̀","t","ú","n","."]
+        "tokens": [
+          "K",
+          "ò",
+          "s",
+          "ó",
+          "ǹ",
+          "k",
+          "á",
+          "l",
+          "ù",
+          "k",
+          "ú",
+          " ",
+          "j",
+          "ẹ",
+          " ",
+          "o",
+          "r",
+          "ú",
+          "k",
+          "ọ",
+          " ",
+          "t",
+          "ó",
+          " ",
+          "ṣ",
+          "ọ",
+          "̀",
+          "t",
+          "ú",
+          "n",
+          "."
+        ]
       },
       "mot": {
         "n_tokens": 5,
-        "tokens": ["Kòsóǹkálùkú","jẹ","orúkọ","tó","ṣọ̀tún."]
+        "tokens": [
+          "Kòsóǹkálùkú",
+          "jẹ",
+          "orúkọ",
+          "tó",
+          "ṣọ̀tún."
+        ]
       }
-    }
+    },
+    "traduction": "Kòsóǹkálùkú est un nom qui convient.",
+    "phenomene_linguistique": "Mot composé agglutinant yoruba + multiple diacritiques tonaux cumulés",
+    "annotations_par_tokenizer": {
+      "tiktoken": "Kò|só|ǹ|ká|lù|kú — 6 tokens pour 1 mot de 10 chars. Chaque syllabe avec ton est séparée. ǹ (n nasal avec ton) fragmenté en [n] + [̀].",
+      "sentencepiece": "Kòsóǹkálùkú — reconnu comme 1 unité car appris dans corpus mixte. Bien meilleur.",
+      "caractere": "10 tokens. Structure syllabique visible.",
+      "mot": "1 token. Opaque mais préserve l'intégrité du mot."
+    },
+    "probleme_cle": "Chaque diacritique tonal de ǹ génère un token séparé avec tiktoken. Le modèle reçoit des séquences de bytes sans signification au lieu d'un mot yoruba cohérent."
   },
   {
     "language": "Wolof",
@@ -103,21 +498,114 @@
     "tokenizations": {
       "tiktoken": {
         "n_tokens": 23,
-        "tokens": ["▁B","<0xC3>","<0xAB>","g","g","▁n","a","▁","k","o","▁te","▁j","à","mm","▁ak","▁mb","ok","k","▁y","i","."]
+        "tokens": [
+          "▁B",
+          "<0xC3>",
+          "<0xAB>",
+          "g",
+          "g",
+          "▁n",
+          "a",
+          "▁",
+          "k",
+          "o",
+          "▁te",
+          "▁j",
+          "à",
+          "mm",
+          "▁ak",
+          "▁mb",
+          "ok",
+          "k",
+          "▁y",
+          "i",
+          "."
+        ]
       },
       "sentencepiece": {
         "n_tokens": 21,
-        "tokens": ["▁B","<0xC3>","<0xAB>","g","g","▁na","▁k","o","▁te","▁j","à","mm","▁a","k","▁mb","ok","k","▁y","i","."]
+        "tokens": [
+          "▁B",
+          "<0xC3>",
+          "<0xAB>",
+          "g",
+          "g",
+          "▁na",
+          "▁k",
+          "o",
+          "▁te",
+          "▁j",
+          "à",
+          "mm",
+          "▁a",
+          "k",
+          "▁mb",
+          "ok",
+          "k",
+          "▁y",
+          "i",
+          "."
+        ]
       },
       "caractere": {
         "n_tokens": 31,
-        "tokens": ["B","ë","g","g"," ","n","a"," ","k","o"," ","t","e"," ","j","à","m","m"," ","a","k"," ","m","b","o","k","k"," ","y","i","."]
+        "tokens": [
+          "B",
+          "ë",
+          "g",
+          "g",
+          " ",
+          "n",
+          "a",
+          " ",
+          "k",
+          "o",
+          " ",
+          "t",
+          "e",
+          " ",
+          "j",
+          "à",
+          "m",
+          "m",
+          " ",
+          "a",
+          "k",
+          " ",
+          "m",
+          "b",
+          "o",
+          "k",
+          "k",
+          " ",
+          "y",
+          "i",
+          "."
+        ]
       },
       "mot": {
         "n_tokens": 8,
-        "tokens": ["Bëgg","na","ko","te","jàmm","ak","mbokk","yi."]
+        "tokens": [
+          "Bëgg",
+          "na",
+          "ko",
+          "te",
+          "jàmm",
+          "ak",
+          "mbokk",
+          "yi."
+        ]
       }
-    }
+    },
+    "traduction": "Il veut et la paix et les membres de la famille.",
+    "phenomene_linguistique": "Géminées wolof : bëgg (vouloir) et jàmm (paix) avec consonnes doublées",
+    "annotations_par_tokenizer": {
+      "tiktoken": "▁bëgg — reconnu comme 1 token (bonne nouvelle). Mais ë est fragile hors contexte. jàmm → ▁jàmm 1 token aussi.",
+      "sentencepiece": "Même comportement : bëgg et jàmm en 1 token chacun.",
+      "caractere": "b|ë|g|g — la gémination gg (phonème distinctif) est découpée en 2 tokens g+g identiques. Impossible de distinguer bëgg (vouloir) de bëg.",
+      "mot": "7 tokens. Géminées préservées dans le mot mais opaques."
+    },
+    "probleme_cle": "Le tokenizer caractère est le plus problématique ici : il détruit la distinction phonémique entre bëg (forme courte) et bëgg (vouloir). Les deux donnent ...g|g... vs ...g = impossible à distinguer."
   },
   {
     "language": "Wolof",
@@ -127,21 +615,161 @@
     "tokenizations": {
       "tiktoken": {
         "n_tokens": 36,
-        "tokens": ["▁N","da","xam","a","al","oo","▁y","i","▁da","ñ","u","y","▁l","ig","g","é","ey","▁bu","▁d","<0xC3>","<0xAB>","g","<0xC3>","<0xAB>","r","▁ci","▁d","<0xC3>","<0xAB>","k","k","▁b","i","."]
+        "tokens": [
+          "▁N",
+          "da",
+          "xam",
+          "a",
+          "al",
+          "oo",
+          "▁y",
+          "i",
+          "▁da",
+          "ñ",
+          "u",
+          "y",
+          "▁l",
+          "ig",
+          "g",
+          "é",
+          "ey",
+          "▁bu",
+          "▁d",
+          "<0xC3>",
+          "<0xAB>",
+          "g",
+          "<0xC3>",
+          "<0xAB>",
+          "r",
+          "▁ci",
+          "▁d",
+          "<0xC3>",
+          "<0xAB>",
+          "k",
+          "k",
+          "▁b",
+          "i",
+          "."
+        ]
       },
       "sentencepiece": {
         "n_tokens": 35,
-        "tokens": ["▁N","da","x","ama","al","oo","▁y","i","▁d","añ","u","y","▁l","ig","g","é","ey","▁bu","▁d","<0xC3>","<0xAB>","g","<0xC3>","<0xAB>","r","▁ci","▁d","<0xC3>","<0xAB>","k","k","▁b","i","."]
+        "tokens": [
+          "▁N",
+          "da",
+          "x",
+          "ama",
+          "al",
+          "oo",
+          "▁y",
+          "i",
+          "▁d",
+          "añ",
+          "u",
+          "y",
+          "▁l",
+          "ig",
+          "g",
+          "é",
+          "ey",
+          "▁bu",
+          "▁d",
+          "<0xC3>",
+          "<0xAB>",
+          "g",
+          "<0xC3>",
+          "<0xAB>",
+          "r",
+          "▁ci",
+          "▁d",
+          "<0xC3>",
+          "<0xAB>",
+          "k",
+          "k",
+          "▁b",
+          "i",
+          "."
+        ]
       },
       "caractere": {
         "n_tokens": 50,
-        "tokens": ["N","d","a","x","a","m","a","a","l","o","o"," ","y","i"," ","d","a","ñ","u","y"," ","l","i","g","g","é","e","y"," ","b","u"," ","d","ë","g","ë","ë","r"," ","c","i"," ","d","ë","k","k"," ","b","i","."]
+        "tokens": [
+          "N",
+          "d",
+          "a",
+          "x",
+          "a",
+          "m",
+          "a",
+          "a",
+          "l",
+          "o",
+          "o",
+          " ",
+          "y",
+          "i",
+          " ",
+          "d",
+          "a",
+          "ñ",
+          "u",
+          "y",
+          " ",
+          "l",
+          "i",
+          "g",
+          "g",
+          "é",
+          "e",
+          "y",
+          " ",
+          "b",
+          "u",
+          " ",
+          "d",
+          "ë",
+          "g",
+          "ë",
+          "ë",
+          "r",
+          " ",
+          "c",
+          "i",
+          " ",
+          "d",
+          "ë",
+          "k",
+          "k",
+          " ",
+          "b",
+          "i",
+          "."
+        ]
       },
       "mot": {
         "n_tokens": 9,
-        "tokens": ["Ndaxamaaloo","yi","dañuy","liggéey","bu","dëgëër","ci","dëkk","bi."]
+        "tokens": [
+          "Ndaxamaaloo",
+          "yi",
+          "dañuy",
+          "liggéey",
+          "bu",
+          "dëgëër",
+          "ci",
+          "dëkk",
+          "bi."
+        ]
       }
-    }
+    },
+    "traduction": "Les paysans travaillent dur dans le village.",
+    "phenomene_linguistique": "Géminée dans liggéey (travailler) + classificateurs yi, bi + progressif dañuy",
+    "annotations_par_tokenizer": {
+      "tiktoken": "▁l|ig|g|ée|y — liggéey fragmenté en 5 tokens. La gémination 'gg' est coupée : lig-g-ée. Le progressif dañuy = dañ|uy (aspect verbal wolof perdu).",
+      "sentencepiece": "▁l|ig|g|ée|y — même fragmentation. Les deux tokenizers traitent identiquement les géminées avec é accentué.",
+      "caractere": "Fragmentation totale. l|i|g|g|é|e|y = 7 tokens pour 7 chars.",
+      "mot": "9 tokens. Structure préservée mais inanalysable."
+    },
+    "probleme_cle": "La séquence ée (voyelle longue accentuée dans une géminée) est systématiquement fragmentée. Le modèle reçoit [l][ig][g][ée][y] au lieu de [liggéey]. Il ne peut pas apprendre l'association entre ce token et le sens 'travailler'."
   },
   {
     "language": "Fongbé",
@@ -151,21 +779,153 @@
     "tokenizations": {
       "tiktoken": {
         "n_tokens": 39,
-        "tokens": ["▁D","ó",",","▁d","<0xC3>","<0xB2>",",","▁d","ô","<0x3A>","▁g","b","è","▁a","t","<0xC9>","<0x94>","̌","n","▁l","<0xC9>","<0x9B>","▁","<0xC9>","<0x96>","ó","▁taji","▁","<0xC9>","<0x96>","<0xC3>","<0xB2>","▁F","on","."]
+        "tokens": [
+          "▁D",
+          "ó",
+          ",",
+          "▁d",
+          "<0xC3>",
+          "<0xB2>",
+          ",",
+          "▁d",
+          "ô",
+          "<0x3A>",
+          "▁g",
+          "b",
+          "è",
+          "▁a",
+          "t",
+          "<0xC9>",
+          "<0x94>",
+          "̌",
+          "n",
+          "▁l",
+          "<0xC9>",
+          "<0x9B>",
+          "▁",
+          "<0xC9>",
+          "<0x96>",
+          "ó",
+          "▁taji",
+          "▁",
+          "<0xC9>",
+          "<0x96>",
+          "<0xC3>",
+          "<0xB2>",
+          "▁F",
+          "on",
+          "."
+        ]
       },
       "sentencepiece": {
         "n_tokens": 36,
-        "tokens": ["▁D","ó",",","▁d","<0xC3>","<0xB2>",",","▁d","ô","<0x3A>","▁gb","è","▁a","t","<0xC9>","<0x94>","̌","n","▁l","<0xC9>","<0x9B>","▁","<0xC9>","<0x96>","ó","▁taji","▁","<0xC9>","<0x96>","<0xC3>","<0xB2>","▁F","on","."]
+        "tokens": [
+          "▁D",
+          "ó",
+          ",",
+          "▁d",
+          "<0xC3>",
+          "<0xB2>",
+          ",",
+          "▁d",
+          "ô",
+          "<0x3A>",
+          "▁gb",
+          "è",
+          "▁a",
+          "t",
+          "<0xC9>",
+          "<0x94>",
+          "̌",
+          "n",
+          "▁l",
+          "<0xC9>",
+          "<0x9B>",
+          "▁",
+          "<0xC9>",
+          "<0x96>",
+          "ó",
+          "▁taji",
+          "▁",
+          "<0xC9>",
+          "<0x96>",
+          "<0xC3>",
+          "<0xB2>",
+          "▁F",
+          "on",
+          "."
+        ]
       },
       "caractere": {
         "n_tokens": 40,
-        "tokens": ["D","ó",","," ","d","ò",","," ","d","ô",":"," ","g","b","è"," ","a","t","ɔ","̌","n"," ","l","ɛ"," ","ɖ","ó"," ","t","a","j","i"," ","ɖ","ò"," ","F","o","n","."]
+        "tokens": [
+          "D",
+          "ó",
+          ",",
+          " ",
+          "d",
+          "ò",
+          ",",
+          " ",
+          "d",
+          "ô",
+          ":",
+          " ",
+          "g",
+          "b",
+          "è",
+          " ",
+          "a",
+          "t",
+          "ɔ",
+          "̌",
+          "n",
+          " ",
+          "l",
+          "ɛ",
+          " ",
+          "ɖ",
+          "ó",
+          " ",
+          "t",
+          "a",
+          "j",
+          "i",
+          " ",
+          "ɖ",
+          "ò",
+          " ",
+          "F",
+          "o",
+          "n",
+          "."
+        ]
       },
       "mot": {
         "n_tokens": 10,
-        "tokens": ["Dó,","dò,","dô:","gbè","atɔ̌n","lɛ","ɖó","taji","ɖò","Fon."]
+        "tokens": [
+          "Dó,",
+          "dò,",
+          "dô:",
+          "gbè",
+          "atɔ̌n",
+          "lɛ",
+          "ɖó",
+          "taji",
+          "ɖò",
+          "Fon."
+        ]
       }
-    }
+    },
+    "traduction": "Dó, dò, dô : les trois tons sont importants en fon.",
+    "phenomene_linguistique": "Tons distinctifs fongbé : dó (ton haut), dò (ton bas), dô (ton descendant) = 3 mots distincts",
+    "annotations_par_tokenizer": {
+      "tiktoken": "dó → ▁dó (1 token ok), dò → ▁dò (1 token ok), dô → ▁d|ô (2 tokens — ô caron fragmenté). ɔ̌ dans atɔ̌n → ▁at|ɔ̌ (fragmentation du caron).",
+      "sentencepiece": "dó, dò groupés. dô → ▁d|ô aussi fragmenté. Même problème avec ɔ̌.",
+      "caractere": "d|ó|,|d|ò|,|d|ô — tons visibles comme caractères mais dissociés de leur consonne.",
+      "mot": "11 tokens. Les 3 mots homophones sont distincts mais opaques."
+    },
+    "probleme_cle": "dó/dò/dô sont 3 morphèmes lexicalement distincts en fongbé. tiktoken traite dó et dò correctement (1 token) mais fragmente dô en d+ô. Le modèle voit 2 formes de dô contre 1 forme de dó/dò : asymétrie qui nuit à l'apprentissage des tons."
   },
   {
     "language": "Fongbé",
@@ -175,21 +935,112 @@
     "tokenizations": {
       "tiktoken": {
         "n_tokens": 24,
-        "tokens": ["▁","<0xC3>","<0x88>","▁","<0xC9>","<0x96>","ó","▁n","a","▁y","<0xC3>","<0xAC>","▁b","<0xC9>","<0x94>","▁","<0xC3>","<0x88>","▁na","▁w","á","▁d","ó","."]
+        "tokens": [
+          "▁",
+          "<0xC3>",
+          "<0x88>",
+          "▁",
+          "<0xC9>",
+          "<0x96>",
+          "ó",
+          "▁n",
+          "a",
+          "▁y",
+          "<0xC3>",
+          "<0xAC>",
+          "▁b",
+          "<0xC9>",
+          "<0x94>",
+          "▁",
+          "<0xC3>",
+          "<0x88>",
+          "▁na",
+          "▁w",
+          "á",
+          "▁d",
+          "ó",
+          "."
+        ]
       },
       "sentencepiece": {
         "n_tokens": 20,
-        "tokens": ["▁","<0xC3>","<0x88>","▁","<0xC9>","<0x96>","ó","▁na","▁y","ì","▁b","<0xC9>","<0x94>","▁è","▁na","▁w","á","▁d","ó","."]
+        "tokens": [
+          "▁",
+          "<0xC3>",
+          "<0x88>",
+          "▁",
+          "<0xC9>",
+          "<0x96>",
+          "ó",
+          "▁na",
+          "▁y",
+          "ì",
+          "▁b",
+          "<0xC9>",
+          "<0x94>",
+          "▁è",
+          "▁na",
+          "▁w",
+          "á",
+          "▁d",
+          "ó",
+          "."
+        ]
       },
       "caractere": {
         "n_tokens": 25,
-        "tokens": ["È"," ","ɖ","ó"," ","n","a"," ","y","ì"," ","b","ɔ"," ","è"," ","n","a"," ","w","á"," ","d","ó","."]
+        "tokens": [
+          "È",
+          " ",
+          "ɖ",
+          "ó",
+          " ",
+          "n",
+          "a",
+          " ",
+          "y",
+          "ì",
+          " ",
+          "b",
+          "ɔ",
+          " ",
+          "è",
+          " ",
+          "n",
+          "a",
+          " ",
+          "w",
+          "á",
+          " ",
+          "d",
+          "ó",
+          "."
+        ]
       },
       "mot": {
         "n_tokens": 9,
-        "tokens": ["È","ɖó","na","yì","bɔ","è","na","wá","dó."]
+        "tokens": [
+          "È",
+          "ɖó",
+          "na",
+          "yì",
+          "bɔ",
+          "è",
+          "na",
+          "wá",
+          "dó."
+        ]
       }
-    }
+    },
+    "traduction": "Il doit aller et il doit venir.",
+    "phenomene_linguistique": "Monosyllabes fongbé denses : è (pronom), ɖó (devoir), na (futur), yì (aller), bɔ (consécutif), wá (venir), dó (ton haut)",
+    "annotations_par_tokenizer": {
+      "tiktoken": "▁È → ▁É (1 token), ▁ɖó → ▁|ɖ|ó (3 tokens — ɖ crochet fragmenté !), ▁na (1 token), ▁yì (1 token ok), ▁bɔ (1 token ok), ▁wá (1 token ok), ▁dó (1 token ok).",
+      "sentencepiece": "▁ɖó → ▁|ɖ|ó (même fragmentation). Le ɖ (d à crochet U+0256) est systématiquement fragmenté.",
+      "caractere": "Chaque monosyllabe = 1-2 tokens. Structure isolante visible.",
+      "mot": "8 tokens parfaits. 1 token = 1 morphème = structure idéale."
+    },
+    "probleme_cle": "Le caractère ɖ (U+0256, d à crochet) est fragmenté en [ɖ] + [lettre suivante] par les deux tokenizers. Dans une langue isolante comme le fongbé où chaque morphème est un mot, cette fragmentation d'UN caractère peut multiplier les tokens d'un morphème entier par 3."
   },
   {
     "language": "Français",
@@ -199,21 +1050,119 @@
     "tokenizations": {
       "tiktoken": {
         "n_tokens": 9,
-        "tokens": ["▁Le","▁gouvernement","▁a","▁annoncé","▁de","▁nouvelles","▁mesures","▁économiques","."]
+        "tokens": [
+          "▁Le",
+          "▁gouvernement",
+          "▁a",
+          "▁annoncé",
+          "▁de",
+          "▁nouvelles",
+          "▁mesures",
+          "▁économiques",
+          "."
+        ]
       },
       "sentencepiece": {
         "n_tokens": 9,
-        "tokens": ["▁Le","▁gouvernement","▁a","▁annoncé","▁de","▁nouvelles","▁mesures","▁économiques","."]
+        "tokens": [
+          "▁Le",
+          "▁gouvernement",
+          "▁a",
+          "▁annoncé",
+          "▁de",
+          "▁nouvelles",
+          "▁mesures",
+          "▁économiques",
+          "."
+        ]
       },
       "caractere": {
         "n_tokens": 59,
-        "tokens": ["L","e"," ","g","o","u","v","e","r","n","e","m","e","n","t"," ","a"," ","a","n","n","o","n","c","é"," ","d","e"," ","n","o","u","v","e","l","l","e","s"," ","m","e","s","u","r","e","s"," ","é","c","o","n","o","m","i","q","u","e","s","."]
+        "tokens": [
+          "L",
+          "e",
+          " ",
+          "g",
+          "o",
+          "u",
+          "v",
+          "e",
+          "r",
+          "n",
+          "e",
+          "m",
+          "e",
+          "n",
+          "t",
+          " ",
+          "a",
+          " ",
+          "a",
+          "n",
+          "n",
+          "o",
+          "n",
+          "c",
+          "é",
+          " ",
+          "d",
+          "e",
+          " ",
+          "n",
+          "o",
+          "u",
+          "v",
+          "e",
+          "l",
+          "l",
+          "e",
+          "s",
+          " ",
+          "m",
+          "e",
+          "s",
+          "u",
+          "r",
+          "e",
+          "s",
+          " ",
+          "é",
+          "c",
+          "o",
+          "n",
+          "o",
+          "m",
+          "i",
+          "q",
+          "u",
+          "e",
+          "s",
+          "."
+        ]
       },
       "mot": {
         "n_tokens": 8,
-        "tokens": ["Le","gouvernement","a","annoncé","de","nouvelles","mesures","économiques."]
+        "tokens": [
+          "Le",
+          "gouvernement",
+          "a",
+          "annoncé",
+          "de",
+          "nouvelles",
+          "mesures",
+          "économiques."
+        ]
       }
-    }
+    },
+    "traduction": "(Référence française — pas de traduction nécessaire)",
+    "phenomene_linguistique": "Référence : le français est bien couvert — fertilité faible = idéal pour comparaison",
+    "annotations_par_tokenizer": {
+      "tiktoken": "▁Le ▁gouvernement ▁a ▁annoncé ▁de ▁nouvelles ▁mesures ▁économiques . — 9 tokens pour 8 mots. Chaque mot = 1 token ou presque.",
+      "sentencepiece": "Identique : 9 tokens. Le français est dans le corpus d'entraînement des deux tokenizers.",
+      "caractere": "47 tokens. Fragmentation maximale.",
+      "mot": "8 tokens. 1 token = 1 mot = baseline."
+    },
+    "probleme_cle": "Pas de problème pour le français — c'est la référence. Mais noter que 'économiques' = 1 token pour tiktoken, tandis que pour le yoruba, 'ọrọ̀' (économie) = 3+ tokens à cause des diacritiques. Même longueur de mot, traitement radicalement différent."
   },
   {
     "language": "Français",
@@ -223,20 +1172,128 @@
     "tokenizations": {
       "tiktoken": {
         "n_tokens": 18,
-        "tokens": ["▁L","'","anti","con","s","ti","tu","tion","nelle","ment","▁est","▁le","▁m","ot","▁le","▁plus","▁long","."]
+        "tokens": [
+          "▁L",
+          "'",
+          "anti",
+          "con",
+          "s",
+          "ti",
+          "tu",
+          "tion",
+          "nelle",
+          "ment",
+          "▁est",
+          "▁le",
+          "▁m",
+          "ot",
+          "▁le",
+          "▁plus",
+          "▁long",
+          "."
+        ]
       },
       "sentencepiece": {
         "n_tokens": 18,
-        "tokens": ["▁L","'","anti","con","s","ti","tu","tion","nelle","ment","▁est","▁le","▁m","ot","▁le","▁plus","▁long","."]
+        "tokens": [
+          "▁L",
+          "'",
+          "anti",
+          "con",
+          "s",
+          "ti",
+          "tu",
+          "tion",
+          "nelle",
+          "ment",
+          "▁est",
+          "▁le",
+          "▁m",
+          "ot",
+          "▁le",
+          "▁plus",
+          "▁long",
+          "."
+        ]
       },
       "caractere": {
         "n_tokens": 52,
-        "tokens": ["L","'","a","n","t","i","c","o","n","s","t","i","t","u","t","i","o","n","n","e","l","l","e","m","e","n","t"," ","e","s","t"," ","l","e"," ","m","o","t"," ","l","e"," ","p","l","u","s"," ","l","o","n","g","."]
+        "tokens": [
+          "L",
+          "'",
+          "a",
+          "n",
+          "t",
+          "i",
+          "c",
+          "o",
+          "n",
+          "s",
+          "t",
+          "i",
+          "t",
+          "u",
+          "t",
+          "i",
+          "o",
+          "n",
+          "n",
+          "e",
+          "l",
+          "l",
+          "e",
+          "m",
+          "e",
+          "n",
+          "t",
+          " ",
+          "e",
+          "s",
+          "t",
+          " ",
+          "l",
+          "e",
+          " ",
+          "m",
+          "o",
+          "t",
+          " ",
+          "l",
+          "e",
+          " ",
+          "p",
+          "l",
+          "u",
+          "s",
+          " ",
+          "l",
+          "o",
+          "n",
+          "g",
+          "."
+        ]
       },
       "mot": {
         "n_tokens": 7,
-        "tokens": ["L'anticonstitutionnellement","est","le","mot","le","plus","long."]
+        "tokens": [
+          "L'anticonstitutionnellement",
+          "est",
+          "le",
+          "mot",
+          "le",
+          "plus",
+          "long."
+        ]
       }
-    }
+    },
+    "traduction": "(Référence française — dérivation complexe)",
+    "phenomene_linguistique": "Dérivation française : anti-constitution-nel-le-ment = 5 morphèmes",
+    "annotations_par_tokenizer": {
+      "tiktoken": "▁L'|anti|constitu|tion|nel|lement — 6 tokens pour 1 mot de 25 chars. BPE reconnaît les sous-unités fréquentes anti-, -tion, -ment.",
+      "sentencepiece": "▁L'|anti|constitu|tion|nel|lement — identique. Les deux tokenizers entraînés sur corpus français reconnaissent ces morphèmes.",
+      "caractere": "25 tokens. Un par lettre.",
+      "mot": "5 tokens (L' / anticonstitutionnellement / est / le / mot...)."
+    },
+    "probleme_cle": "Le français bénéficie d'un traitement morphologiquement cohérent : anti-, -tion, -ment sont reconnus. En comparaison, les morphèmes yoruba ì- (nominalisateur) ou wolof -ul (négation) ne sont jamais reconnus comme unités."
   }
 ]
