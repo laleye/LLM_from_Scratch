@@ -1,0 +1,602 @@
+{
+  "wol_001": {
+    "transcription": "",
+    "langue_detectee": "fr",
+    "duree_inference_sec": 1.31,
+    "modele": "whisper-small"
+  },
+  "wol_002": {
+    "transcription": "סטאסיון של אקוטאט",
+    "langue_detectee": "he",
+    "duree_inference_sec": 1.17,
+    "modele": "whisper-small"
+  },
+  "wol_003": {
+    "transcription": "Next Once x",
+    "langue_detectee": "fr",
+    "duree_inference_sec": 4.21,
+    "modele": "whisper-small"
+  },
+  "wol_004": {
+    "transcription": "Vous devez l'oublier notre business plan. Vous devez dire que nous ne sommes pas là pour parler. Nous avons déjà appris à ce business plan. Nous avons un plan commercial. Nous avons un plan de développement.",
+    "langue_detectee": "fr",
+    "duree_inference_sec": 1.64,
+    "modele": "whisper-small"
+  },
+  "wol_005": {
+    "transcription": "Amonanyu dan gas, dissidenchi sen ala.",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 1.36,
+    "modele": "whisper-small"
+  },
+  "wol_006": {
+    "transcription": "ʻʻeʃiʟ ʻil nʻiʷ ʻanʰit ʻr ᵍɑʂ ʻib eyesight ʻiʰaʂ ʻiʰaʂ ʻoʰaʂ ʰoʰaʂ ʰoʰaʂ.",
+    "langue_detectee": "jw",
+    "duree_inference_sec": 30.41,
+    "modele": "whisper-small"
+  },
+  "wol_007": {
+    "transcription": "Tontu naksa yuere amreu dongo yatak.",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 1.34,
+    "modele": "whisper-small"
+  },
+  "wol_008": {
+    "transcription": "bao  massive wind,  shrinking wind or heavy welding.",
+    "langue_detectee": "jw",
+    "duree_inference_sec": 15.04,
+    "modele": "whisper-small"
+  },
+  "wol_009": {
+    "transcription": "The balloon!",
+    "langue_detectee": "en",
+    "duree_inference_sec": 4.31,
+    "modele": "whisper-small"
+  },
+  "wol_010": {
+    "transcription": "gECIDEMYEė GENHŎIČ거든요 A gearbox is nearly rain we need a Lance",
+    "langue_detectee": "sn",
+    "duree_inference_sec": 16.66,
+    "modele": "whisper-small"
+  },
+  "wol_011": {
+    "transcription": "C'est à j'attentir sur un épidém Pure et la",
+    "langue_detectee": "fr",
+    "duree_inference_sec": 9.09,
+    "modele": "whisper-small"
+  },
+  "wol_012": {
+    "transcription": "Sofa kwa naimunga fadina kwa kwa",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 1.23,
+    "modele": "whisper-small"
+  },
+  "wol_013": {
+    "transcription": "Parce que vos parcours et 1 km au sein de l'amour ben Nagarab.",
+    "langue_detectee": "fr",
+    "duree_inference_sec": 2.08,
+    "modele": "whisper-small"
+  },
+  "wol_014": {
+    "transcription": "Sais-le à l'unionnec. Qu'est-ce que tu veux faire à la doule?",
+    "langue_detectee": "fr",
+    "duree_inference_sec": 1.36,
+    "modele": "whisper-small"
+  },
+  "wol_015": {
+    "transcription": "Lysia Morris Delafos",
+    "langue_detectee": "en",
+    "duree_inference_sec": 1.14,
+    "modele": "whisper-small"
+  },
+  "wol_016": {
+    "transcription": "Merci d'avoir réalisé cette vidéo.",
+    "langue_detectee": "fr",
+    "duree_inference_sec": 4.92,
+    "modele": "whisper-small"
+  },
+  "wol_017": {
+    "transcription": "El son STOP",
+    "langue_detectee": "es",
+    "duree_inference_sec": 4.24,
+    "modele": "whisper-small"
+  },
+  "wol_018": {
+    "transcription": "Merci Thélie Boumat.",
+    "langue_detectee": "fr",
+    "duree_inference_sec": 2.37,
+    "modele": "whisper-small"
+  },
+  "wol_019": {
+    "transcription": "Legi de, iai tego nja bwot gusia wu gifusa baima.",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 1.32,
+    "modele": "whisper-small"
+  },
+  "wol_020": {
+    "transcription": "See you in the next video.",
+    "langue_detectee": "en",
+    "duree_inference_sec": 1.76,
+    "modele": "whisper-small"
+  },
+  "wol_021": {
+    "transcription": "Et elle fait smarter ça, comme uneschool on peut le find.",
+    "langue_detectee": "fr",
+    "duree_inference_sec": 5.07,
+    "modele": "whisper-small"
+  },
+  "wol_022": {
+    "transcription": "pharmacie celebe 1",
+    "langue_detectee": "fr",
+    "duree_inference_sec": 4.72,
+    "modele": "whisper-small"
+  },
+  "wol_023": {
+    "transcription": "Semua saya nyulka repit, saya ngeram, nyimad dan mei.",
+    "langue_detectee": "id",
+    "duree_inference_sec": 1.92,
+    "modele": "whisper-small"
+  },
+  "wol_024": {
+    "transcription": "بيه يبري يونجا يسيسي تانلين يي تفعاشر توسيمان ليبي ولكرأجلس يو يبي باركو هبر يو هوا ياد ودنو تهو ننو لن جهن ديكو",
+    "langue_detectee": "so",
+    "duree_inference_sec": 2.19,
+    "modele": "whisper-small"
+  },
+  "wol_025": {
+    "transcription": "On commence à transmettre sa mère",
+    "langue_detectee": "fr",
+    "duree_inference_sec": 4.96,
+    "modele": "whisper-small"
+  },
+  "wol_026": {
+    "transcription": "Où jelot跑 à gitérer. Comment je peux",
+    "langue_detectee": "fr",
+    "duree_inference_sec": 5.55,
+    "modele": "whisper-small"
+  },
+  "wol_027": {
+    "transcription": "Lajne nga lera wubah sabaheti nanumako wubah.",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 2.32,
+    "modele": "whisper-small"
+  },
+  "wol_028": {
+    "transcription": "댁还  Namen中国 Niang Force",
+    "langue_detectee": "sn",
+    "duree_inference_sec": 14.89,
+    "modele": "whisper-small"
+  },
+  "wol_029": {
+    "transcription": "Firmasi Ibrahim Anyaz",
+    "langue_detectee": "id",
+    "duree_inference_sec": 1.26,
+    "modele": "whisper-small"
+  },
+  "wol_030": {
+    "transcription": "तब उभी दिन राले बवार्न मीणेँ शिल्गा श् Scholotiv.",
+    "langue_detectee": "my",
+    "duree_inference_sec": 19.65,
+    "modele": "whisper-small"
+  },
+  "wol_031": {
+    "transcription": "Tu as Thvéona le plus dulceur du monde, goggles.",
+    "langue_detectee": "fr",
+    "duree_inference_sec": 4.95,
+    "modele": "whisper-small"
+  },
+  "wol_032": {
+    "transcription": "Tamil field, नमण्य्यíd Talking",
+    "langue_detectee": "km",
+    "duree_inference_sec": 19.7,
+    "modele": "whisper-small"
+  },
+  "wol_033": {
+    "transcription": "Elimin warwblo leh deflunni tni di an interfaces.",
+    "langue_detectee": "yo",
+    "duree_inference_sec": 10.44,
+    "modele": "whisper-small"
+  },
+  "wol_034": {
+    "transcription": "gosto",
+    "langue_detectee": "am",
+    "duree_inference_sec": 5.04,
+    "modele": "whisper-small"
+  },
+  "wol_035": {
+    "transcription": "bored",
+    "langue_detectee": "fr",
+    "duree_inference_sec": 4.52,
+    "modele": "whisper-small"
+  },
+  "sw_001": {
+    "transcription": "Yeredio France International Mimi Nizuhro Mwira.",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.74,
+    "modele": "whisper-small"
+  },
+  "sw_002": {
+    "transcription": "Marikani ase maiko chayari kwaisehdi ya korea kustini kwaikabili korea kaskazini",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.94,
+    "modele": "whisper-small"
+  },
+  "sw_003": {
+    "transcription": "Natu me uchaguzin chinina ijeria ya tadi atarehe uchaguzim kuwantihi",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.87,
+    "modele": "whisper-small"
+  },
+  "sw_004": {
+    "transcription": "Kari bukatsika awam ya pili ya matangazo ya asubuhi",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.83,
+    "modele": "whisper-small"
+  },
+  "sw_005": {
+    "transcription": "Wati bati wote shirina kendamba oli kwa me kwa man dani yam godo makaya mawen chini humo",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.91,
+    "modele": "whisper-small"
+  },
+  "sw_006": {
+    "transcription": "wana eleza kupoteza maishi ya baida kutuki ya kumlipuku mwingini wa gesi.",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.87,
+    "modele": "whisper-small"
+  },
+  "sw_007": {
+    "transcription": "Mli puku apili mbometokyendani amgodi omakaya mawenshni New Zealand",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.85,
+    "modele": "whisper-small"
+  },
+  "sw_008": {
+    "transcription": "Na nagw",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 4.7,
+    "modele": "whisper-small"
+  },
+  "sw_009": {
+    "transcription": "Ambali kwa magrugana kupurumoka kwa mgodi huwa",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.83,
+    "modele": "whisper-small"
+  },
+  "sw_010": {
+    "transcription": "Ali nilezako da ofisha jodi zote mozili kwa na chikuliyu na serikari",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.91,
+    "modele": "whisper-small"
+  },
+  "sw_011": {
+    "transcription": "Foreign",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 5.17,
+    "modele": "whisper-small"
+  },
+  "sw_012": {
+    "transcription": "kwa polisi ambali kwa naungoza zoesilo",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.74,
+    "modele": "whisper-small"
+  },
+  "sw_013": {
+    "transcription": "Ile kwa mizagandi omizaba bisha bifu",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.78,
+    "modele": "whisper-small"
+  },
+  "sw_014": {
+    "transcription": "Couldn't say when he said to himself that he would rather kill yourself",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 4.13,
+    "modele": "whisper-small"
+  },
+  "sw_015": {
+    "transcription": "Wara kini so na io po amili yo shampoo amikuwama",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 4.53,
+    "modele": "whisper-small"
+  },
+  "sw_016": {
+    "transcription": "Shim Sec",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 4.39,
+    "modele": "whisper-small"
+  },
+  "sw_017": {
+    "transcription": "na mojo grokanchina Afrika kusini",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.72,
+    "modele": "whisper-small"
+  },
+  "sw_018": {
+    "transcription": "Ogoku muku muziki onesia mli puko, kwanza",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.78,
+    "modele": "whisper-small"
+  },
+  "sw_019": {
+    "transcription": "Uli toki ama pema sikwe yuma",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.72,
+    "modele": "whisper-small"
+  },
+  "sw_020": {
+    "transcription": "Raishi omarekani barako bama kiri kwa taifa la korea kaskazini niha tshari kwa usalama adunia.",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.96,
+    "modele": "whisper-small"
+  },
+  "sw_021": {
+    "transcription": "kufatianti hiu kwa shambulia majiranizao kureya kustini.",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.84,
+    "modele": "whisper-small"
+  },
+  "sw_022": {
+    "transcription": "Inaku sababisha, vifu vio na deshi wa teifa hilo.",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.78,
+    "modele": "whisper-small"
+  },
+  "sw_023": {
+    "transcription": "Rai sobama mesema liche ahaliku ahiveo",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.74,
+    "modele": "whisper-small"
+  },
+  "sw_024": {
+    "transcription": "Lekini nchi aki hainam pangu wa kutumi anguvu zaki deshiku kabiliyana na kureyaka skazini.",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.96,
+    "modele": "whisper-small"
+  },
+  "sw_025": {
+    "transcription": "na bedelia kwa tafanya mahudiyano na korea kustini",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.79,
+    "modele": "whisper-small"
+  },
+  "sw_026": {
+    "transcription": "Tupuno shirikyanu imara na yukumletu",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.76,
+    "modele": "whisper-small"
+  },
+  "sw_027": {
+    "transcription": "kura tarifa kwa vikosi via korea kusini na amerikani",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.78,
+    "modele": "whisper-small"
+  },
+  "sw_028": {
+    "transcription": "evita fanya mazuezia ki jeshikuwa siku nne, tako yuwanza jyuma pili jayo.",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.92,
+    "modele": "whisper-small"
+  },
+  "sw_029": {
+    "transcription": "eliku jenda na cho cho teki na cho eza ku tokeya.",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.75,
+    "modele": "whisper-small"
+  },
+  "sw_030": {
+    "transcription": "Tukendelea kubakikat kasakata la korea kaska zinu Azirimku wa japan na otukan",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.97,
+    "modele": "whisper-small"
+  },
+  "sw_031": {
+    "transcription": "ame tooko cina落u sumi ya huşa wasanya lio naayuki wa k ora kanda.",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 10.01,
+    "modele": "whisper-small"
+  },
+  "sw_032": {
+    "transcription": "kusahidi ya kupunguzam sugoano kajia koreyaka skazini na koreyaku sini.",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.93,
+    "modele": "whisper-small"
+  },
+  "sw_033": {
+    "transcription": "kwazerikan meki ambiya kikosi maalum kili qewundu wa kutazama kwa wakini tuki ola ma shambulizi",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 1.02,
+    "modele": "whisper-small"
+  },
+  "sw_034": {
+    "transcription": "ya koreyaka skaziniku wa koreyaku sinia leofanika hapudiana",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.84,
+    "modele": "whisper-small"
+  },
+  "sw_035": {
+    "transcription": "Kwa tukiohi lo limezua hofu katikaine o lote",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 0.77,
+    "modele": "whisper-small"
+  },
+  "audio_001": {
+    "transcription": "Куда за сам?",
+    "langue_detectee": "ru",
+    "duree_inference_sec": 1.09,
+    "modele": "whisper-small"
+  },
+  "audio_002": {
+    "transcription": "Adofia",
+    "langue_detectee": "pt",
+    "duree_inference_sec": 1.08,
+    "modele": "whisper-small"
+  },
+  "audio_003": {
+    "transcription": "E tá bom.",
+    "langue_detectee": "pt",
+    "duree_inference_sec": 1.12,
+    "modele": "whisper-small"
+  },
+  "audio_004": {
+    "transcription": "¡Tú autoe!",
+    "langue_detectee": "es",
+    "duree_inference_sec": 1.12,
+    "modele": "whisper-small"
+  },
+  "audio_005": {
+    "transcription": "Tô etanquidi.",
+    "langue_detectee": "pt",
+    "duree_inference_sec": 1.16,
+    "modele": "whisper-small"
+  },
+  "audio_006": {
+    "transcription": "E um do FII",
+    "langue_detectee": "pt",
+    "duree_inference_sec": 1.68,
+    "modele": "whisper-small"
+  },
+  "audio_007": {
+    "transcription": "Fite akanu wa zodi",
+    "langue_detectee": "sw",
+    "duree_inference_sec": 1.15,
+    "modele": "whisper-small"
+  },
+  "audio_008": {
+    "transcription": "Não te canule.",
+    "langue_detectee": "pt",
+    "duree_inference_sec": 1.09,
+    "modele": "whisper-small"
+  },
+  "audio_009": {
+    "transcription": "No.",
+    "langue_detectee": "en",
+    "duree_inference_sec": 1.11,
+    "modele": "whisper-small"
+  },
+  "audio_010": {
+    "transcription": "No?",
+    "langue_detectee": "en",
+    "duree_inference_sec": 1.09,
+    "modele": "whisper-small"
+  },
+  "audio_011": {
+    "transcription": "Sorry",
+    "langue_detectee": "en",
+    "duree_inference_sec": 4.04,
+    "modele": "whisper-small"
+  },
+  "audio_012": {
+    "transcription": "as so",
+    "langue_detectee": "en",
+    "duree_inference_sec": 1.14,
+    "modele": "whisper-small"
+  },
+  "audio_013": {
+    "transcription": "I assume",
+    "langue_detectee": "en",
+    "duree_inference_sec": 1.17,
+    "modele": "whisper-small"
+  },
+  "audio_014": {
+    "transcription": "As you!",
+    "langue_detectee": "en",
+    "duree_inference_sec": 4.29,
+    "modele": "whisper-small"
+  },
+  "audio_015": {
+    "transcription": "two",
+    "langue_detectee": "en",
+    "duree_inference_sec": 1.69,
+    "modele": "whisper-small"
+  },
+  "audio_016": {
+    "transcription": "two",
+    "langue_detectee": "en",
+    "duree_inference_sec": 1.06,
+    "modele": "whisper-small"
+  },
+  "audio_017": {
+    "transcription": "Thank you.",
+    "langue_detectee": "en",
+    "duree_inference_sec": 1.1,
+    "modele": "whisper-small"
+  },
+  "audio_018": {
+    "transcription": "No, vi ti.",
+    "langue_detectee": "it",
+    "duree_inference_sec": 1.14,
+    "modele": "whisper-small"
+  },
+  "audio_019": {
+    "transcription": "What I see",
+    "langue_detectee": "en",
+    "duree_inference_sec": 1.15,
+    "modele": "whisper-small"
+  },
+  "audio_020": {
+    "transcription": "が assumed to be a post spread party thebe",
+    "langue_detectee": "km",
+    "duree_inference_sec": 15.07,
+    "modele": "whisper-small"
+  },
+  "audio_021": {
+    "transcription": "ඨාසිය එක් අපුසමීමණු ඉතරල්තේ දහ手 අිල්තවසමියක ක් දනාදහOULDාහ ගේ්තරන්ති ර෕ෝතාදය දහසාදෙවානේ් බේරාපානිටනානෙ‍ඟ්දායීයිව඀ැදනාරන්වතාපෙප�",
+    "langue_detectee": "si",
+    "duree_inference_sec": 18.51,
+    "modele": "whisper-small"
+  },
+  "audio_022": {
+    "transcription": "E",
+    "langue_detectee": "en",
+    "duree_inference_sec": 1.18,
+    "modele": "whisper-small"
+  },
+  "audio_023": {
+    "transcription": "E",
+    "langue_detectee": "en",
+    "duree_inference_sec": 1.07,
+    "modele": "whisper-small"
+  },
+  "audio_024": {
+    "transcription": "჌ ვლირვმვმიიგიე჊ლჟლდივვვეეიიდეთვევბივვვიდვვბევნეეზეივვვეიეეეუდდვ჋ვბელევეილი�",
+    "langue_detectee": "yo",
+    "duree_inference_sec": 16.97,
+    "modele": "whisper-small"
+  },
+  "audio_025": {
+    "transcription": "Go.",
+    "langue_detectee": "en",
+    "duree_inference_sec": 1.11,
+    "modele": "whisper-small"
+  },
+  "audio_026": {
+    "transcription": "Go.",
+    "langue_detectee": "en",
+    "duree_inference_sec": 1.07,
+    "modele": "whisper-small"
+  },
+  "audio_027": {
+    "transcription": "E sumiu.",
+    "langue_detectee": "pt",
+    "duree_inference_sec": 3.97,
+    "modele": "whisper-small"
+  },
+  "audio_028": {
+    "transcription": "From here we finish this very.",
+    "langue_detectee": "en",
+    "duree_inference_sec": 4.57,
+    "modele": "whisper-small"
+  },
+  "audio_029": {
+    "transcription": "I need you.",
+    "langue_detectee": "pt",
+    "duree_inference_sec": 4.35,
+    "modele": "whisper-small"
+  },
+  "audio_030": {
+    "transcription": "Det præstan er nogens Petition Jun",
+    "langue_detectee": "da",
+    "duree_inference_sec": 4.71,
+    "modele": "whisper-small"
+  }
+}
