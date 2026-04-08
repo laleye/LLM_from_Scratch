@@ -1,0 +1,11 @@
+language,tokenizer,total_tokens,pct_mono_char,pct_bytes,pct_covered
+Français,tiktoken,1606,24.1,0.5,99.5
+Français,sentencepiece,1622,23.9,0.4,99.6
+Wolof,tiktoken,2244,56.1,12.7,87.3
+Wolof,sentencepiece,2122,50.5,13.5,86.5
+Yoruba,tiktoken,4851,29.4,58.5,41.5
+Yoruba,sentencepiece,2204,45.3,14.6,85.4
+Swahili,tiktoken,2432,50.2,0.2,99.8
+Swahili,sentencepiece,1596,30.6,0.4,99.6
+Fongbé,tiktoken,3596,37.5,50.9,49.1
+Fongbé,sentencepiece,3228,36.5,46.7,53.3

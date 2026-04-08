@@ -1,0 +1,41 @@
+n,language,langue,phrase_fr,traduction_ref,evaluation,commentaire
+1,wo,Wolof,Les enfants vont à l'école chaque matin.,Xale yi dañuy dem lekk suba bu nekk.,bonne,"Classificateur yi correct, progressif dañuy correct"
+2,wo,Wolof,Le marché est ouvert le samedi.,Marché bi dafa jëlëndiku Aseer bu nekk.,bonne,Emprunt Marché+bi correct
+3,wo,Wolof,L'eau est essentielle pour la vie.,Ndox mooy jëkk ci muñ bu yépp.,bonne,Ndox+mooy idiomatique
+4,wo,Wolof,Les femmes jouent un rôle important dans la société.,Jigéen yi am solo bu dëgëër ci dëkk bi.,bonne,Jigéen yi + am solo bu dëgëër naturel
+5,wo,Wolof,Le gouvernement a annoncé de nouvelles mesures.,Dëkk bi dafa jox xëtu njëkëram.,bonne,Xëtu njëkëram (mesures) naturel
+6,wo,Wolof,La médecine moderne sauve des vies.,Dëgëm bu yore bi dafa mën a dëkk yoon yi.,bonne,Dëgëm bu yore (médecine moderne) idiomatique
+7,wo,Wolof,Les jeunes sont l'avenir du pays.,Reew mi mooy yëngël bu suukandiku.,bonne,Expression figée correcte
+8,wo,Wolof,L'agriculture est la principale activité économique.,Jëf-jëf bu dëkk mooy yoon wu njëkk wu xalis.,bonne,Redoublement jëf-jëf approprié
+9,wo,Wolof,La paix est nécessaire pour le développement.,Jàmm mooy nit ki bëgg a yor.,bonne,Jàmm (paix) + nit ki bëgg naturel
+10,wo,Wolof,Les nouvelles technologies changent notre vie.,Xeetu njëkëram yi ëpp dañuy soppi yoon wu ñu dëkk.,bonne,Xeetu njëkëram yi + soppi correct
+1,yo,Yoruba,Les enfants vont à l'école chaque matin.,Àwọn ọmọ ń lọ sí ilé-ẹ̀kọ́ gbogbo òwúrọ̀.,bonne,"ilé-ẹ̀kọ́ composé correct, progressif ń"
+2,yo,Yoruba,Le marché est ouvert le samedi.,Ọjà ń ṣí ní ọjọ Àbámẹ́ta.,acceptable,"Ọjọ Àbámẹ́ta = mercredi, samedi=Àìkú (approximatif)"
+3,yo,Yoruba,L'eau est essentielle pour la vie.,Omi ṣe pàtàkì fún ìgbésí ayé.,bonne,Structure courte et correcte
+4,yo,Yoruba,Les femmes jouent un rôle important dans la société.,Àwọn obìnrin kó ipa pàtàkì nínú àwùjọ.,bonne,obìnrin + ipa pàtàkì idiomatique
+5,yo,Yoruba,Le gouvernement a annoncé de nouvelles mesures.,Ìjọba ń kéde àwọn ìgbésẹ̀ tuntun.,bonne,Ì-jọba + ń kéde correct
+6,yo,Yoruba,La médecine moderne sauve des vies.,Ìmọ̀ ìjìnlẹ̀ ogún òde òní gbà ẹ̀mí là.,bonne,ti + gbà + là : passé composé correct
+7,yo,Yoruba,Les jeunes sont l'avenir du pays.,Àwọn ọ̀dọ́ ni ọjọ́ iwájú orílẹ̀-èdè.,bonne,Composé ọjọ́ iwájú (avenir) correct
+8,yo,Yoruba,L'agriculture est la principale activité économique.,Iṣẹ́ àgbẹ̀ ni orísun àpéjẹpọ̀ àkọ́kọ́.,acceptable,Composé iṣẹ́ àgbẹ̀ correct
+9,yo,Yoruba,La paix est nécessaire pour le développement.,Àlàáfíà ṣe pàtàkì fún ìdàgbàsókè.,bonne,Àlàáfíà + ṣe pàtàkì idiomatique
+10,yo,Yoruba,Les nouvelles technologies changent notre vie.,Ìmọ̀ ẹ̀rọ tuntun ń yí ọ̀nà tí a ń gbé ayé padà.,bonne,ìmọ̀ ẹ̀rọ + ń yí + ayé padà correct
+1,sw,Swahili,Les enfants vont à l'école chaque matin.,Watoto wanaenda shuleni kila asubuhi.,bonne,wa-na-enda + kila asubuhi correct
+2,sw,Swahili,Le marché est ouvert le samedi.,Soko linafunguliwa Jumamosi.,bonne,li-na-funguliwa passif correct
+3,sw,Swahili,L'eau est essentielle pour la vie.,Maji ni muhimu kwa maisha.,bonne,Maji + ni + muhimu structure correcte
+4,sw,Swahili,Les femmes jouent un rôle important dans la société.,Wanawake wana jukumu muhimu katika jamii.,bonne,wa-na-wake + jukumu muhimu correct
+5,sw,Swahili,Le gouvernement a annoncé de nouvelles mesures.,Serikali imetangaza hatua mpya.,bonne,i-me-tangaza parfait correct
+6,sw,Swahili,La médecine moderne sauve des vies.,Dawa ya kisasa inaokoa maisha.,bonne,i-na-okoa présent correct
+7,sw,Swahili,Les jeunes sont l'avenir du pays.,Vijana ndio mustakabali wa nchi.,bonne,ndio mustakabali structure correcte
+8,sw,Swahili,L'agriculture est la principale activité économique.,Kilimo ni shughuli kuu ya kiuchumi.,bonne,kilimo + ni + shughuli correct
+9,sw,Swahili,La paix est nécessaire pour le développement.,Amani inahitajika kwa maendeleo.,bonne,i-na-hitajika passif correct
+10,sw,Swahili,Les nouvelles technologies changent notre vie.,Teknolojia mpya zinabadilisha maisha yetu.,bonne,zi-na-badilisha + yetu correct
+1,fon,Fongbé,Les enfants vont à l'école chaque matin.,Vǐ lɛ nɔ yì suklu zǎn gbɛ̀ gbɛ̀.,bonne,gbɛ̀ gbɛ̀ réduplication correcte
+2,fon,Fongbé,Le marché est ouvert le samedi.,Ayikúngban ɔ nɔ mɛ Aseer gbɛ̀.,acceptable,Aseer (samedi) approximatif mais compris
+3,fon,Fongbé,L'eau est essentielle pour la vie.,Mɛ̌ wɛ nyí nǔ taji ɖò gbɛ̀ mɛ.,acceptable,"Mɛ̌ = eau correct, nǔ taji correct"
+4,fon,Fongbé,Les femmes jouent un rôle important dans la société.,Nyɔnu lɛ nɔ wà azɔ taji ɖò mɛxomɛxo mɛ.,bonne,Nyɔnu (femme) + azɔ taji correct
+5,fon,Fongbé,Le gouvernement a annoncé de nouvelles mesures.,Sinsɛn ɔ ko ɖɔ nǔ yɔyɔ̌ lɛ.,bonne,sinsɛn (gouvernement) + ɖɔ correct
+6,fon,Fongbé,La médecine moderne sauve des vies.,Nɔxuanú yɔyɔ̌ nɔ hwlɛn gbɛ̀.,acceptable,Nɔxuanú (médecin) + hwlɛn correct
+7,fon,Fongbé,Les jeunes sont l'avenir du pays.,Mɛxotɔ lɛ wɛ nyí nukɔnmɛ tɔn.,bonne,mɛxotɔ (jeunes) + nukɔnmɛ correct
+8,fon,Fongbé,L'agriculture est la principale activité économique.,Dokunsinsɛn wɛ nyí azɔwanú taji.,bonne,dokunsinsɛn (agriculteur) correct
+9,fon,Fongbé,La paix est nécessaire pour le développement.,Fífá nyí nǔ e hɛn hudo nú gbigbɔ.,bonne,fífá (paix) + hɛn hudo correct
+10,fon,Fongbé,Les nouvelles technologies changent notre vie.,Nǔnywɛxɔ yɔyɔ̌ lɛ nɔ cí nǔ e mǐ nɔ gbɛ̀.,acceptable,nǔnywɛxɔ (technologie) correct

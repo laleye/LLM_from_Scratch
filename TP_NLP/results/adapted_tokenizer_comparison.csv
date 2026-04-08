@@ -1,0 +1,31 @@
+text,tokenizer,n_words,n_tokens,fertility
+Elimu ni haki ya kila mtoto katika jamii yetu.,tiktoken,9,11,1.222
+Elimu ni haki ya kila mtoto katika jamii yetu.,sentencepiece,9,12,1.333
+Elimu ni haki ya kila mtoto katika jamii yetu.,adapted_sw,9,13,1.444
+Kilimo bora kinahitaji ujuzi na zana za kisasa.,tiktoken,8,14,1.75
+Kilimo bora kinahitaji ujuzi na zana za kisasa.,sentencepiece,8,14,1.75
+Kilimo bora kinahitaji ujuzi na zana za kisasa.,adapted_sw,8,18,2.25
+Uchumi wa nchi unategemea watu wake wote.,tiktoken,7,14,2.0
+Uchumi wa nchi unategemea watu wake wote.,sentencepiece,7,16,2.286
+Uchumi wa nchi unategemea watu wake wote.,adapted_sw,7,10,1.429
+Biashara ya kimataifa inasaidia maendeleo ya nchi.,tiktoken,7,12,1.714
+Biashara ya kimataifa inasaidia maendeleo ya nchi.,sentencepiece,7,13,1.857
+Biashara ya kimataifa inasaidia maendeleo ya nchi.,adapted_sw,7,11,1.571
+Wataalamu wa afya wanashauriwa kuzuia magonjwa.,tiktoken,6,15,2.5
+Wataalamu wa afya wanashauriwa kuzuia magonjwa.,sentencepiece,6,18,3.0
+Wataalamu wa afya wanashauriwa kuzuia magonjwa.,adapted_sw,6,15,2.5
+Hatutakapokuwa tumefika nyumbani bado.,tiktoken,4,5,1.25
+Hatutakapokuwa tumefika nyumbani bado.,sentencepiece,4,5,1.25
+Hatutakapokuwa tumefika nyumbani bado.,adapted_sw,4,5,1.25
+Wanajiandaa kwa mtihani wa taifa mwaka huu.,tiktoken,7,13,1.857
+Wanajiandaa kwa mtihani wa taifa mwaka huu.,sentencepiece,7,13,1.857
+Wanajiandaa kwa mtihani wa taifa mwaka huu.,adapted_sw,7,12,1.714
+Teknolojia mpya inabadilisha njia ya kufanya kazi.,tiktoken,7,9,1.286
+Teknolojia mpya inabadilisha njia ya kufanya kazi.,sentencepiece,7,9,1.286
+Teknolojia mpya inabadilisha njia ya kufanya kazi.,adapted_sw,7,10,1.429
+Mabadiliko ya tabianchi yanaathiri kilimo nchini.,tiktoken,6,10,1.667
+Mabadiliko ya tabianchi yanaathiri kilimo nchini.,sentencepiece,6,13,2.167
+Mabadiliko ya tabianchi yanaathiri kilimo nchini.,adapted_sw,6,11,1.833
+Watu wote wana haki sawa mbele ya sheria.,tiktoken,8,13,1.625
+Watu wote wana haki sawa mbele ya sheria.,sentencepiece,8,16,2.0
+Watu wote wana haki sawa mbele ya sheria.,adapted_sw,8,12,1.5
